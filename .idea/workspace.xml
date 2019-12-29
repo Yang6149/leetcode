@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pickOne/L21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pickOne/L17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pickOne/L53.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pickOne/L15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pickOne/L15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pickOne/L15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pickOne/L15.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,107 +20,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/temp/Serializ.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="8" selection-start-line="8" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L26.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L21.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L53.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L2AddTowNum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L27.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="106">
+              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,6 +77,8 @@
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L11.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L15.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pickOne/L17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pickOne/L53.java" />
       </list>
     </option>
   </component>
@@ -178,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,7 +148,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L21.test">
+  <component name="RunManager" selected="JUnit.L53.test">
     <configuration name="L11.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -297,6 +212,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L17.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pickOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pickOne" />
+      <option name="MAIN_CLASS_NAME" value="pickOne.L17" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L21.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -313,7 +244,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L26.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L53.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -322,23 +253,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pickOne" />
-      <option name="MAIN_CLASS_NAME" value="pickOne.L26" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L27.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pickOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pickOne" />
-      <option name="MAIN_CLASS_NAME" value="pickOne.L27" />
+      <option name="MAIN_CLASS_NAME" value="pickOne.L53" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -347,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L53.test" />
+        <item itemvalue="JUnit.L17.test" />
         <item itemvalue="JUnit.L21.test" />
         <item itemvalue="JUnit.L15.test" />
         <item itemvalue="JUnit.L11.test" />
-        <item itemvalue="JUnit.L27.test" />
-        <item itemvalue="JUnit.L26.test" />
       </list>
     </recent_temporary>
   </component>
@@ -378,50 +293,60 @@
       <workItem from="1577085306600" duration="7609000" />
       <workItem from="1577202574140" duration="2034000" />
       <workItem from="1577262197490" duration="20904000" />
-      <workItem from="1577460964549" duration="1762000" />
+      <workItem from="1577460964549" duration="1785000" />
+      <workItem from="1577511618695" duration="333000" />
+      <workItem from="1577626131016" duration="4327000" />
     </task>
+    <task id="LOCAL-00001" summary="Merge Two Sorted Lists">
+      <created>1577467992937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577467992937</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L15_test - 2019.12.27 at 01h 45m 33s.xml">
-      <configuration name="L15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L15_test - 2019.12.27 at 01h 46m 31s.xml">
-      <configuration name="L15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L15_test - 2019.12.27 at 01h 46m 50s.xml">
-      <configuration name="L15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L15_test - 2019.12.27 at 01h 47m 37s.xml">
-      <configuration name="L15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L15_test - 2019.12.27 at 01h 48m 21s.xml">
-      <configuration name="L15.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L21_test - 2019.12.28 at 01h 28m 42s.xml">
-      <configuration name="L21.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L21_test - 2019.12.28 at 01h 29m 19s.xml">
-      <configuration name="L21.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L21_test - 2019.12.28 at 01h 29m 27s.xml">
-      <configuration name="L21.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L21_test - 2019.12.28 at 01h 30m 53s.xml">
-      <configuration name="L21.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L21_test - 2019.12.28 at 01h 31m 07s.xml">
       <configuration name="L21.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 04m 09s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 05m 01s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 06m 09s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 07m 05s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 08m 58s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L17_test - 2019.12.29 at 23h 23m 35s.xml">
+      <configuration name="L17.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L53_test - 2019.12.29 at 23h 23m 40s.xml">
+      <configuration name="L53.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L53_test - 2019.12.29 at 23h 27m 46s.xml">
+      <configuration name="L53.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L53_test - 2019.12.29 at 23h 28m 31s.xml">
+      <configuration name="L53.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46596000" />
+    <option name="totallyTimeSpent" value="51279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28463286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29371688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -431,7 +356,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.51311475" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2557377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49836066" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,6 +383,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge Two Sorted Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Two Sorted Lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -740,6 +669,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L2AddTowNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L27.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -747,26 +690,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="152">
           <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -774,17 +700,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L2AddTowNum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="190">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L53.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
