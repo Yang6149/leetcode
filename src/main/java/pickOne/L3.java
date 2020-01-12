@@ -3,6 +3,8 @@ package pickOne;
 import org.junit.Test;
 
 public class L3 {
+    int dadada=5;
+    protected int  dididi=10;
     public int lengthOfLongestSubstring(String s) {
         //n compare n-1
         //一种是n的内部和某一位到最后的比较
