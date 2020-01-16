@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/L5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pickOne/L1318.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pickOne/L96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pickOne/L96.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -111,20 +107,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/L5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="-114">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L1318.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="117">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -151,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/recursion/ReverseString.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/PascalTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/ReverseLinkedList.java" />
@@ -202,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pickOne/L1318.java" />
       </list>
     </option>
   </component>
@@ -247,7 +243,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
+              <item name="pickOne" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -302,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L3">
+  <component name="RunManager" selected="JUnit.L1318.test">
     <configuration name="L3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcode.L3" />
       <module name="leetcode" />
@@ -312,6 +308,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L1318.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pickOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pickOne" />
+      <option name="MAIN_CLASS_NAME" value="pickOne.L1318" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -348,22 +360,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L84.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pickOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pickOne" />
-      <option name="MAIN_CLASS_NAME" value="pickOne.L84" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="L85.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -382,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L1318.test" />
         <item itemvalue="Application.L3" />
         <item itemvalue="JUnit.L2.test" />
         <item itemvalue="JUnit.L1.test" />
         <item itemvalue="JUnit.L85.test" />
-        <item itemvalue="JUnit.L84.test" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +427,7 @@
       <workItem from="1578906308303" duration="6521000" />
       <workItem from="1578973302227" duration="17625000" />
       <workItem from="1579090510285" duration="8115000" />
-      <workItem from="1579146159552" duration="8988000" />
+      <workItem from="1579146159552" duration="11297000" />
     </task>
     <task id="LOCAL-00001" summary="Merge Two Sorted Lists">
       <created>1577467992937</created>
@@ -601,22 +597,17 @@
       <option name="project" value="LOCAL" />
       <updated>1579147401063</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="牛客算法测试 遗憾42">
+      <created>1579168080282</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1579168080282</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L1_test - 2020.01.16 at 14h 28m 29s.xml">
-      <configuration name="L1.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L1_test - 2020.01.16 at 14h 28m 43s.xml">
-      <configuration name="L1.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L2_test - 2020.01.16 at 14h 46m 28s.xml">
-      <configuration name="L2.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L2_test - 2020.01.16 at 14h 46m 37s.xml">
-      <configuration name="L2.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L2_test - 2020.01.16 at 14h 47m 02s.xml">
       <configuration name="L2.test" configurationId="JUnit" />
     </history-entry>
@@ -635,9 +626,21 @@
     <history-entry file="L2_test - 2020.01.16 at 15h 02m 04s.xml">
       <configuration name="L2.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L1318_test - 2020.01.16 at 18h 16m 04s.xml">
+      <configuration name="L1318.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L1318_test - 2020.01.16 at 18h 18m 16s.xml">
+      <configuration name="L1318.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L1318_test - 2020.01.16 at 18h 19m 20s.xml">
+      <configuration name="L1318.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L1318_test - 2020.01.16 at 18h 19m 50s.xml">
+      <configuration name="L1318.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156862000" />
+    <option name="totallyTimeSpent" value="159171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -653,8 +656,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2262295" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5032787" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32131147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12622951" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -743,7 +746,8 @@
     <MESSAGE value="L79" />
     <MESSAGE value="L84" />
     <MESSAGE value="L85" />
-    <option name="LAST_COMMIT_MESSAGE" value="L85" />
+    <MESSAGE value="牛客算法测试 遗憾42" />
+    <option name="LAST_COMMIT_MESSAGE" value="牛客算法测试 遗憾42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -874,6 +878,12 @@
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pickOne/L1318.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -883,13 +893,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L27.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1258,13 +1261,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L85.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -1321,10 +1317,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/L5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="-114">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pickOne/L1318.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
