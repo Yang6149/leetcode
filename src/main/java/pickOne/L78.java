@@ -2,9 +2,8 @@ package pickOne;
 
 import org.junit.Test;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class L78 {
@@ -43,6 +42,7 @@ public class L78 {
         System.out.println();
         ArrayList<Integer> A=new ArrayList<>();
         //A.add()
+
     }
     class SASA{
         int a;
