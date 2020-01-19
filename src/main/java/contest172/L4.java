@@ -27,11 +27,6 @@ public class L4 {
         int [] a=new int[]{1,2,1,0,2,1,0,1};
         System.out.println(minTaps(a.length-1,a));
     }
-        //A[] 1,2,1,0,2,1,0,1
 
-        //dp  0,9,9,9,9,9,9,9
-        //dp  0,9
-
-        //j=0<=1;
 
 }
