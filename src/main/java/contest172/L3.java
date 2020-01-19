@@ -1,6 +1,6 @@
 package contest172;
 
-import pickOne.TreeNode;
+import like100.TreeNode;
 
 public class L3 {
     public TreeNode removeLeafNodes(TreeNode root, int target) {
