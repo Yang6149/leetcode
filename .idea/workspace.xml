@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/like100/L148.java" line="6" mnemonic="1" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/mergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/like100/L148.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/like100/L148.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,20 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L148.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="152">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L2AddTowNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sort/mergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="589">
+              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/main/java/like100/L141.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L142.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L146.java" />
-        <option value="$PROJECT_DIR$/src/main/java/like100/L148.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/mergeSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/like100/L148.java" />
       </list>
     </option>
   </component>
@@ -130,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -185,6 +189,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.mergeSort.tees">
+  <component name="RunManager" selected="JUnit.L148.test">
     <configuration name="L146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="like100.L146" />
       <module name="leetcode" />
@@ -226,22 +231,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L139.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="like100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="like100" />
-      <option name="MAIN_CLASS_NAME" value="like100.L139" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -278,6 +267,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L148.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="like100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="like100" />
+      <option name="MAIN_CLASS_NAME" value="like100.L148" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="mergeSort.tees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -296,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L148.test" />
         <item itemvalue="JUnit.mergeSort.tees" />
         <item itemvalue="Application.L146" />
         <item itemvalue="JUnit.L146.test" />
         <item itemvalue="JUnit.L142.test" />
-        <item itemvalue="JUnit.L139.test" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +354,8 @@
       <workItem from="1579271603334" duration="9563000" />
       <workItem from="1579334985583" duration="1342000" />
       <workItem from="1579414427844" duration="23789000" />
-      <workItem from="1579503143427" duration="26786000" />
+      <workItem from="1579503143427" duration="31894000" />
+      <workItem from="1579589674544" duration="3583000" />
     </task>
     <task id="LOCAL-00001" summary="Merge Two Sorted Lists">
       <created>1577467992937</created>
@@ -638,49 +644,63 @@
       <option name="project" value="LOCAL" />
       <updated>1579531139712</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="mergeSort">
+      <created>1579543674033</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1579543674033</updated>
+    </task>
+    <task id="LOCAL-00043" summary="mergeSort 节省空间">
+      <created>1579544552890</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1579544552890</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L142_test - 2020.01.20 at 17h 04m 07s.xml">
-      <configuration name="L142.test" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 53m 28s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L142_test - 2020.01.20 at 17h 04m 42s.xml">
-      <configuration name="L142.test" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 54m 15s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L142_test - 2020.01.20 at 17h 04m 52s.xml">
-      <configuration name="L142.test" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 54m 39s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L146_test - 2020.01.20 at 18h 35m 54s.xml">
-      <configuration name="L146.test" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 55m 08s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 01h 56m 31s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 55m 22s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 01h 57m 20s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 55m 31s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 01h 58m 51s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 55m 47s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 02h 01m 08s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 57m 06s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 02h 01m 34s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 58m 13s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="mergeSort_tees - 2020.01.21 at 02h 01m 58s.xml">
-      <configuration name="mergeSort.tees" configurationId="JUnit" />
+    <history-entry file="L148_test - 2020.01.21 at 15h 58m 20s.xml">
+      <configuration name="L148.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229890000" />
+    <option name="totallyTimeSpent" value="238581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19833459" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20136261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -690,8 +710,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46393442" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32786885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37540984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4180328" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -756,8 +776,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Merge Intervals" />
-    <MESSAGE value="L62 \63       dynamic programming" />
     <MESSAGE value="L73 hard" />
     <MESSAGE value="L75 改进" />
     <MESSAGE value="L76" />
@@ -781,7 +799,9 @@
     <MESSAGE value="L142 双指针找起点" />
     <MESSAGE value="L146" />
     <MESSAGE value="L146 修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="L146 修改" />
+    <MESSAGE value="mergeSort" />
+    <MESSAGE value="mergeSort 节省空间" />
+    <option name="LAST_COMMIT_MESSAGE" value="mergeSort 节省空间" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -941,6 +961,12 @@
           <line>92</line>
           <properties />
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/like100/L148.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1335,13 +1361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L2AddTowNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L141.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
@@ -1369,13 +1388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L148.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-607">
@@ -1383,10 +1395,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L2AddTowNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/mergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        <state relative-caret-position="589">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
