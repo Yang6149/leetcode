@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L169.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L152.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            <state relative-caret-position="15">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -45,11 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L160.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="114">
+              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L169.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -97,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pickOne/L34.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L33.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L39.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/L41.java" />
@@ -148,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/main/java/like100/L152.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L155.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L160.java" />
+        <option value="$PROJECT_DIR$/src/main/java/like100/L169.java" />
       </list>
     </option>
   </component>
@@ -367,7 +376,7 @@
       <workItem from="1579414427844" duration="23789000" />
       <workItem from="1579503143427" duration="31894000" />
       <workItem from="1579589674544" duration="11686000" />
-      <workItem from="1579685150932" duration="1469000" />
+      <workItem from="1579685150932" duration="4214000" />
     </task>
     <task id="LOCAL-00001" summary="Merge Two Sorted Lists">
       <created>1577467992937</created>
@@ -691,13 +700,17 @@
       <option name="project" value="LOCAL" />
       <updated>1579685234248</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="找出最小公共节点">
+      <created>1579686776261</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1579686776261</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L152_test - 2020.01.21 at 21h 23m 50s.xml">
-      <configuration name="L152.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L152_test - 2020.01.21 at 21h 24m 17s.xml">
       <configuration name="L152.test" configurationId="JUnit" />
     </history-entry>
@@ -725,9 +738,12 @@
     <history-entry file="L152_test - 2020.01.21 at 21h 37m 59s.xml">
       <configuration name="L152.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L152_test - 2020.01.22 at 17h 52m 24s.xml">
+      <configuration name="L152.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248153000" />
+    <option name="totallyTimeSpent" value="250898000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -743,8 +759,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16229509" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.45737705" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16229509" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.45737705" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -809,7 +825,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="L78" />
     <MESSAGE value="L79" />
     <MESSAGE value="L84" />
     <MESSAGE value="L85" />
@@ -834,7 +849,8 @@
     <MESSAGE value="sort linkedlist" />
     <MESSAGE value="max subarray product" />
     <MESSAGE value="可输出最小元素的栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="可输出最小元素的栈" />
+    <MESSAGE value="找出最小公共节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="找出最小公共节点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1025,23 +1041,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="1509" column="23" selection-start-line="1509" selection-start-column="15" selection-end-line="1509" selection-end-column="23" />
-          <folding>
-            <element signature="e#24839#24840#0" expanded="true" />
-            <element signature="e#24885#24886#0" expanded="true" />
-            <element signature="e#122103#122104#0" expanded="true" />
-            <element signature="e#122142#122143#0" expanded="true" />
-            <element signature="e#132657#132658#0" expanded="true" />
-            <element signature="e#132711#132712#0" expanded="true" />
-            <element signature="e#132795#132796#0" expanded="true" />
-            <element signature="e#132852#132853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L49.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -1420,13 +1419,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L152.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L2AddTowNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1007">
@@ -1451,10 +1443,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L152.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L160.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="114">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L169.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
