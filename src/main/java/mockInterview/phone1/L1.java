@@ -1,5 +1,7 @@
 package mockInterview.phone1;
 
+import org.junit.Test;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 
@@ -11,8 +13,10 @@ public class L1 {
         int maxNum=0;
         Queue<Character> queue=new ArrayDeque<>();
         for (int i=0;i<chars.length;i++){
-            while (queue.contains(chars[i])){
-                queue.poll();
+            if (queue.contains(chars[i])){
+                while(queue.poll()!=chars[i]){
+                    head++;
+                }
                 head++;
             }
             queue.add(chars[i]);
@@ -20,5 +24,11 @@ public class L1 {
             maxNum=Math.max(maxNum,teal-head);
         }
         return maxNum;
+
+    }
+
+    @Test
+    public void test(){
+        System.out.println(lengthOfLongestSubstring("abcad"));
     }
 }
