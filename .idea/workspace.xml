@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L287.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L283.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="179">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L287.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -63,8 +72,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -80,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/nowcode/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L5.java" />
@@ -131,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/main/java/like100/L240.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L279.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L283.java" />
+        <option value="$PROJECT_DIR$/src/main/java/like100/L287.java" />
       </list>
     </option>
   </component>
@@ -237,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L279.test">
+  <component name="RunManager" selected="JUnit.L287.test">
     <configuration name="L1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -248,22 +257,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="mockInterview.phone1" />
       <option name="MAIN_CLASS_NAME" value="mockInterview.phone1.L1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L236.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="like100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="like100" />
-      <option name="MAIN_CLASS_NAME" value="like100.L236" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -302,6 +295,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L287.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="like100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="like100" />
+      <option name="MAIN_CLASS_NAME" value="like100.L287" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -320,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L287.test" />
         <item itemvalue="JUnit.L279.test" />
         <item itemvalue="JUnit.L239.test" />
         <item itemvalue="JUnit.L1.test" />
         <item itemvalue="JUnit.L2.test" />
-        <item itemvalue="JUnit.L236.test" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +386,7 @@
       <workItem from="1579589674544" duration="11686000" />
       <workItem from="1579685150932" duration="19296000" />
       <workItem from="1579766273609" duration="27302000" />
-      <workItem from="1579874269610" duration="4260000" />
-    </task>
-    <task id="LOCAL-00015" summary="Jump Game">
-      <created>1578405474869</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1578405474869</updated>
+      <workItem from="1579874269610" duration="6241000" />
     </task>
     <task id="LOCAL-00016" summary=" Merge Intervals">
       <created>1578415315939</created>
@@ -722,22 +724,17 @@
       <option name="project" value="LOCAL" />
       <updated>1579880753020</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="保持数组顺序的情况下，把所有0移动至最后">
+      <created>1579881395696</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1579881395696</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L279_test - 2020.01.24 at 23h 35m 48s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 36m 49s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 36m 56s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 37m 01s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L279_test - 2020.01.24 at 23h 37m 09s.xml">
       <configuration name="L279.test" configurationId="JUnit" />
     </history-entry>
@@ -756,9 +753,21 @@
     <history-entry file="L279_test - 2020.01.24 at 23h 43m 07s.xml">
       <configuration name="L279.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L287_test - 2020.01.25 at 00h 35m 00s.xml">
+      <configuration name="L287.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L287_test - 2020.01.25 at 00h 35m 52s.xml">
+      <configuration name="L287.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L287_test - 2020.01.25 at 00h 36m 48s.xml">
+      <configuration name="L287.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L287_test - 2020.01.25 at 00h 36m 59s.xml">
+      <configuration name="L287.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297542000" />
+    <option name="totallyTimeSpent" value="299523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -774,8 +783,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20615384" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20923077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18923077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27384615" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -840,7 +849,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="L142 双指针找起点" />
     <MESSAGE value="L146" />
     <MESSAGE value="L146 修改" />
     <MESSAGE value="mergeSort" />
@@ -865,7 +873,8 @@
     <MESSAGE value="滑动窗口问题" />
     <MESSAGE value="再排序矩阵中找数字" />
     <MESSAGE value="寻找 Perfect Squares  target包含最少数量的平方" />
-    <option name="LAST_COMMIT_MESSAGE" value="寻找 Perfect Squares  target包含最少数量的平方" />
+    <MESSAGE value="保持数组顺序的情况下，把所有0移动至最后" />
+    <option name="LAST_COMMIT_MESSAGE" value="保持数组顺序的情况下，把所有0移动至最后" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1050,6 +1059,12 @@
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/like100/L287.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1068,13 +1083,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L79.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2850">
@@ -1472,8 +1480,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L283.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="179">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L287.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
