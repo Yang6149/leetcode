@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L283.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/like100/L279.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/like100/L279.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,11 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L279.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="171">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L283.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -55,6 +64,7 @@
       <list>
         <option value="Singleton" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -70,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pickOne/L85.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/L3.java" />
@@ -121,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/main/java/like100/L239.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L240.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L279.java" />
+        <option value="$PROJECT_DIR$/src/main/java/like100/L283.java" />
       </list>
     </option>
   </component>
@@ -367,14 +377,7 @@
       <workItem from="1579589674544" duration="11686000" />
       <workItem from="1579685150932" duration="19296000" />
       <workItem from="1579766273609" duration="27302000" />
-      <workItem from="1579874269610" duration="3426000" />
-    </task>
-    <task id="LOCAL-00014" summary="为同字符string分组">
-      <created>1578335217639</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1578335217639</updated>
+      <workItem from="1579874269610" duration="4260000" />
     </task>
     <task id="LOCAL-00015" summary="Jump Game">
       <created>1578405474869</created>
@@ -712,22 +715,17 @@
       <option name="project" value="LOCAL" />
       <updated>1579878911223</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="寻找 Perfect Squares  target包含最少数量的平方">
+      <created>1579880753020</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1579880753020</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L279_test - 2020.01.24 at 23h 23m 10s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 23m 25s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 32m 13s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L279_test - 2020.01.24 at 23h 32m 26s.xml">
-      <configuration name="L279.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L279_test - 2020.01.24 at 23h 35m 48s.xml">
       <configuration name="L279.test" configurationId="JUnit" />
     </history-entry>
@@ -746,9 +744,21 @@
     <history-entry file="L279_test - 2020.01.24 at 23h 37m 17s.xml">
       <configuration name="L279.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L279_test - 2020.01.24 at 23h 42m 07s.xml">
+      <configuration name="L279.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L279_test - 2020.01.24 at 23h 42m 18s.xml">
+      <configuration name="L279.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L279_test - 2020.01.24 at 23h 42m 26s.xml">
+      <configuration name="L279.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L279_test - 2020.01.24 at 23h 43m 07s.xml">
+      <configuration name="L279.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="296708000" />
+    <option name="totallyTimeSpent" value="297542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -764,8 +774,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20615384" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34153846" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20615384" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.20923077" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -830,7 +840,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="L141" />
     <MESSAGE value="L142 双指针找起点" />
     <MESSAGE value="L146" />
     <MESSAGE value="L146 修改" />
@@ -855,7 +864,8 @@
     <MESSAGE value="Product of Array Except Self" />
     <MESSAGE value="滑动窗口问题" />
     <MESSAGE value="再排序矩阵中找数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="再排序矩阵中找数字" />
+    <MESSAGE value="寻找 Perfect Squares  target包含最少数量的平方" />
+    <option name="LAST_COMMIT_MESSAGE" value="寻找 Perfect Squares  target包含最少数量的平方" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1034,6 +1044,12 @@
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/like100/L279.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1052,13 +1068,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L85.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L79.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -1456,8 +1465,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L279.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="171">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L283.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
         </state>
       </provider>
     </entry>
