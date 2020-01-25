@@ -1,20 +1,34 @@
 package like100;
 
+import org.junit.Test;
+
+import java.util.Arrays;
+
 public class L300 {
     public int lengthOfLIS(int[] nums) {
         if(nums.length<1)return 0;
         int [] res = new int[nums.length];
-        int result=0;
-        for(int i=1;i<nums.length;i++){
-            int max=0;
-            for(int j=0;j<i;j++){
-                if(nums[i]>nums[j]){
-                    max=Math.max(max,res[j]+1);
+        int size=0;
+        for(int i=0;i<nums.length;i++){
+            int low=0;
+            int high=size;
+            while (high!=low){
+                int m=(high+low)/2;
+                if(res[m]<nums[i]){
+                    low=m+1;
+                }else {
+                    high=m;
                 }
             }
-            res[i]=max;
-            result=Math.max(max,result);
+            res[high]=nums[i];
+            if(high==size)size++;
         }
-        return result+1;
+        return size;
+    }
+
+    @Test
+    public void test(){
+        int [] nums = {10,9,2,5,3,7,101,18};
+        System.out.println(lengthOfLIS(nums));
     }
 }
