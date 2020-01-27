@@ -8,35 +8,25 @@ public class L347 {
     public List<Integer> topKFrequent(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
         for (int num : nums) {
-            if (map.containsKey(num)){
-                map.put(num,map.get(num)+1);
-            }else {
-                map.put(num,0);
-            }
+            map.put(num,map.getOrDefault(num,0)+1);
         }
-        PriorityQueue queue=new PriorityQueue(k, new Comparator() {
-            @Override
-            public int compare(Object o1, Object o2) {
-                if(map.get(o1)>map.get(o2)){
-                    return 1;
-                }else {
-                    return -1;
-                }
-            }
-        });
+        List<Integer> [] bucket = new List[nums.length+1];
         Iterator it=map.entrySet().iterator();
         while (it.hasNext()){
             Map.Entry entry = (Map.Entry) it.next();
-            if (queue.size()!=k){
-                queue.add(entry.getKey());
-                continue;
+            if(bucket[(Integer)entry.getValue()]==null){
+                bucket[(Integer)entry.getValue()]=new ArrayList<>();
             }
-            if ((Integer)entry.getValue()>map.get(queue.peek())){
-                queue.poll();
-                queue.add(entry.getKey());
-            }
+            bucket[(Integer)entry.getValue()].add((Integer)entry.getKey());
         }
-        return new ArrayList<>(queue);
+        ArrayList<Integer> res = new ArrayList<>();
+        for (int i=bucket.length-1;i>=0;i++){
+            if (res.size()==k)break;
+            if (bucket[i]==null)continue;
+            res.addAll(bucket[i]);
+        }
+
+        return res;
     }
     @Test
     public void test(){
