@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L416.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L322.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L337.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L406.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
@@ -84,6 +72,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#377#378#0" expanded="true" />
                 <element signature="e#462#463#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L416.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/contest/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/pickOne/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest172/L4.java" />
@@ -204,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/main/java/like100/L347.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L394.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L406.java" />
+        <option value="$PROJECT_DIR$/src/main/java/like100/L416.java" />
       </list>
     </option>
   </component>
@@ -293,23 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L406.test">
-    <configuration name="L337.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="like100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="like100" />
-      <option name="MAIN_CLASS_NAME" value="like100.L337" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.L416.test">
     <configuration name="L338.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -374,13 +358,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L416.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="like100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="like100" />
+      <option name="MAIN_CLASS_NAME" value="like100.L416" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L416.test" />
         <item itemvalue="JUnit.L406.test" />
         <item itemvalue="JUnit.L394.test" />
         <item itemvalue="JUnit.L347.test" />
         <item itemvalue="JUnit.L338.test" />
-        <item itemvalue="JUnit.L337.test" />
       </list>
     </recent_temporary>
   </component>
@@ -439,14 +439,7 @@
       <workItem from="1580021258688" duration="28150000" />
       <workItem from="1580117035907" duration="14616000" />
       <workItem from="1580141760787" duration="485000" />
-      <workItem from="1580192761544" duration="7975000" />
-    </task>
-    <task id="LOCAL-00029" summary="BST inorderTraversal">
-      <created>1579276426384</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1579276426384</updated>
+      <workItem from="1580192761544" duration="17707000" />
     </task>
     <task id="LOCAL-00030" summary="BST 105">
       <created>1579282158396</created>
@@ -784,43 +777,50 @@
       <option name="project" value="LOCAL" />
       <updated>1580141807349</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="多重条件判断">
+      <created>1580204673246</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1580204673247</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L394_test - 2020.01.27 at 23h 59m 55s.xml">
-      <configuration name="L394.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 55m 02s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L394_test - 2020.01.28 at 00h 00m 20s.xml">
-      <configuration name="L394.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 55m 11s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 19m 27s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 55m 17s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 20m 42s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 55m 27s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 31m 21s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 55m 36s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 32m 16s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 56m 25s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 36m 13s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 22h 56m 33s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 37m 28s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 23h 01m 42s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 38m 16s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 23h 05m 24s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L406_test - 2020.01.28 at 17h 38m 53s.xml">
-      <configuration name="L406.test" configurationId="JUnit" />
+    <history-entry file="L416_test - 2020.01.28 at 23h 05m 59s.xml">
+      <configuration name="L416.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="370822000" />
+    <option name="totallyTimeSpent" value="380554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -836,8 +836,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3353846" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3353846" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3476923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.21076924" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -902,7 +902,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Prefix Tree" />
     <MESSAGE value="Kth max element at array" />
     <MESSAGE value="max square   /dp" />
     <MESSAGE value="inverse tree" />
@@ -927,7 +926,8 @@
     <MESSAGE value=" Counting Bits" />
     <MESSAGE value="Top K Frequent Elements" />
     <MESSAGE value="decoding String" />
-    <option name="LAST_COMMIT_MESSAGE" value="decoding String" />
+    <MESSAGE value="多重条件判断" />
+    <option name="LAST_COMMIT_MESSAGE" value="多重条件判断" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1166,17 +1166,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/mockInterview/phone1/L2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="83">
@@ -1495,13 +1484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -1611,6 +1593,23 @@
             <element signature="imports" expanded="true" />
             <element signature="e#377#378#0" expanded="true" />
             <element signature="e#462#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L416.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
