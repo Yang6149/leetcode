@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testenum/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testenum/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testenum/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L412.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,16 +50,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/testenum/EnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="171">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -135,6 +136,7 @@
       <list>
         <option value="Singleton" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -153,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L198.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L200.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L207.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L208.java" />
@@ -202,8 +203,9 @@
         <option value="$PROJECT_DIR$/src/main/java/interview100/L412.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview100/L237.java" />
-        <option value="$PROJECT_DIR$/src/main/java/testenum/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testenum/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" />
       </list>
     </option>
   </component>
@@ -224,6 +226,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -266,11 +269,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="recursion" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testenum" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +312,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L412.test">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testenum.Test" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testenum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L412.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -313,22 +336,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="interview100" />
       <option name="MAIN_CLASS_NAME" value="interview100.L412" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L621.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="like100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="like100" />
-      <option name="MAIN_CLASS_NAME" value="like100.L621" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -385,11 +392,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.L412.test" />
         <item itemvalue="JUnit.VersionCompare.test" />
         <item itemvalue="JUnit.L739.test" />
         <item itemvalue="JUnit.L647.test" />
-        <item itemvalue="JUnit.L621.test" />
       </list>
     </recent_temporary>
   </component>
@@ -454,14 +461,7 @@
       <workItem from="1580547121099" duration="4005000" />
       <workItem from="1580582900733" duration="18000" />
       <workItem from="1580753035804" duration="2084000" />
-      <workItem from="1580809551531" duration="235000" />
-    </task>
-    <task id="LOCAL-00045" summary="max subarray product">
-      <created>1579613916854</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1579613916854</updated>
+      <workItem from="1580809551531" duration="1431000" />
     </task>
     <task id="LOCAL-00046" summary="可输出最小元素的栈">
       <created>1579685234248</created>
@@ -799,13 +799,17 @@
       <option name="project" value="LOCAL" />
       <updated>1580755122097</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="枚举测试">
+      <created>1580809808814</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1580809808814</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VersionCompare_test - 2020.02.01 at 17h 10m 21s.xml">
-      <configuration name="VersionCompare.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VersionCompare_test - 2020.02.01 at 17h 10m 34s.xml">
       <configuration name="VersionCompare.test" configurationId="JUnit" />
     </history-entry>
@@ -833,15 +837,18 @@
     <history-entry file="L412_test - 2020.02.04 at 02h 11m 43s.xml">
       <configuration name="L412.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L412_test - 2020.02.04 at 17h 56m 29s.xml">
+      <configuration name="L412.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="421608000" />
+    <option name="totallyTimeSpent" value="423039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24678273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24678273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -851,7 +858,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45384616" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36461538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3846154" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -917,7 +924,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Longest Increasing Subsequence" />
     <MESSAGE value="remove something to avlid parentheses" />
     <MESSAGE value="max profit" />
     <MESSAGE value="dp hard&#10;google interview question" />
@@ -942,7 +948,8 @@
     <MESSAGE value="羽翼版本比较" />
     <MESSAGE value="L412" />
     <MESSAGE value="很皮的一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="很皮的一题" />
+    <MESSAGE value="枚举测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="枚举测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1229,27 +1236,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L283.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L287.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L1Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3790">
@@ -1579,6 +1565,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview100.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L739.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1588,11 +1575,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/temp/VersionCompare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="247">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L412.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1635,39 +1648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L412.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L237.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1675,6 +1655,27 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testenum/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testenum/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
