@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testenum/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testenum/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$ListNode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,8 +66,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="266">
+              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -461,14 +464,7 @@
       <workItem from="1580547121099" duration="4005000" />
       <workItem from="1580582900733" duration="18000" />
       <workItem from="1580753035804" duration="2084000" />
-      <workItem from="1580809551531" duration="1431000" />
-    </task>
-    <task id="LOCAL-00046" summary="可输出最小元素的栈">
-      <created>1579685234248</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1579685234248</updated>
+      <workItem from="1580809551531" duration="1938000" />
     </task>
     <task id="LOCAL-00047" summary="找出最小公共节点">
       <created>1579686776261</created>
@@ -806,7 +802,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580809808814</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="不能通过实例类访问静态成员">
+      <created>1580811025564</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1580811025564</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -842,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="423039000" />
+    <option name="totallyTimeSpent" value="423546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -924,7 +927,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove something to avlid parentheses" />
     <MESSAGE value="max profit" />
     <MESSAGE value="dp hard&#10;google interview question" />
     <MESSAGE value="change coins" />
@@ -949,7 +951,8 @@
     <MESSAGE value="L412" />
     <MESSAGE value="很皮的一题" />
     <MESSAGE value="枚举测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="枚举测试" />
+    <MESSAGE value="不能通过实例类访问静态成员" />
+    <option name="LAST_COMMIT_MESSAGE" value="不能通过实例类访问静态成员" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1674,8 +1677,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="266">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
