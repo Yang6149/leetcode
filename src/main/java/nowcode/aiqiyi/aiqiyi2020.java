@@ -1,4 +1,4 @@
-package nowcode;
+package nowcode.aiqiyi;
 
 import java.util.Scanner;
 
