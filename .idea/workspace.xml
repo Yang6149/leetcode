@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/like100/L10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/like100/L7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/like100/L7.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/EnumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/recursion/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
+            <state relative-caret-position="703">
               <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -67,11 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+            <state relative-caret-position="133">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -150,7 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L221.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L226.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L234.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/TreeNode.java" />
@@ -201,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/main/java/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L7.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java" />
       </list>
     </option>
   </component>
@@ -221,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,12 +251,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="like100" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -297,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L10.test">
+  <component name="RunManager" selected="Application.aiqiyi2020">
     <configuration name="L7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="like100.L7" />
       <module name="leetcode" />
@@ -324,6 +323,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="aiqiyi2020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.aiqiyi2020" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -334,22 +346,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="like100" />
       <option name="MAIN_CLASS_NAME" value="like100.L10" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L412.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="interview100" />
-      <option name="MAIN_CLASS_NAME" value="interview100.L412" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -374,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.aiqiyi2020" />
         <item itemvalue="JUnit.L10.test" />
         <item itemvalue="Application.L7" />
         <item itemvalue="JUnit.L7.test" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="JUnit.L412.test" />
       </list>
     </recent_temporary>
   </component>
@@ -445,14 +441,8 @@
       <workItem from="1580753035804" duration="2084000" />
       <workItem from="1580809551531" duration="9687000" />
       <workItem from="1580887855711" duration="3689000" />
-      <workItem from="1580981137677" duration="2535000" />
-    </task>
-    <task id="LOCAL-00050" summary="island  ||fill color">
-      <created>1579699301784</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1579699301785</updated>
+      <workItem from="1580981137677" duration="3417000" />
+      <workItem from="1581162585176" duration="2412000" />
     </task>
     <task id="LOCAL-00051" summary="Kahn's algorithm  /determine if the graph has no directed cycles">
       <created>1579712296781</created>
@@ -790,7 +780,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580888221618</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="regular expression matching">
+      <created>1580983746586</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1580983746586</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -826,13 +823,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="437519000" />
+    <option name="totallyTimeSpent" value="440813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25435275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25813776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -842,7 +839,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31692308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22461538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -908,7 +905,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dp hard&#10;google interview question" />
     <MESSAGE value="change coins" />
     <MESSAGE value="robber III" />
     <MESSAGE value=" Counting Bits" />
@@ -933,7 +929,8 @@
     <MESSAGE value="枚举测试" />
     <MESSAGE value="不能通过实例类访问静态成员" />
     <MESSAGE value="数组中重复的数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组中重复的数字" />
+    <MESSAGE value="regular expression matching" />
+    <option name="LAST_COMMIT_MESSAGE" value="regular expression matching" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1214,6 +1211,12 @@
           <properties />
           <option name="timeStamp" value="167" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1232,13 +1235,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="205" selection-start-line="205" selection-end-line="205" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1612,6 +1608,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21527">
@@ -1652,20 +1658,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
