@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi02.java" afterDir="false" />
+    <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="aiqiyi2020">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicUnit/isPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/lexin2020_01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,15 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Deprecated.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/L3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
@@ -38,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L7.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/lexin2020_01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="95">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,76 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicUnit/isPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21527">
-              <caret line="1205" selection-start-line="1205" selection-end-line="1205" />
-              <folding>
-                <element signature="e#10298#10299#0" expanded="true" />
-                <element signature="e#10374#10375#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#161#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayDeque.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4180">
-              <caret line="258" column="17" selection-start-line="258" selection-start-column="17" selection-end-line="258" selection-end-column="17" />
-              <folding>
-                <element signature="e#6415#6416#0" expanded="true" />
-                <element signature="e#6460#6461#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -151,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/util/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/like100/L236.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockInterview/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockInterview/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/mockInterview/phone1/L2.java" />
@@ -202,6 +124,8 @@
         <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicUnit/isPrime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcode/lexin2020_01.java" />
       </list>
     </option>
   </component>
@@ -222,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,23 +178,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
-              <item name="aiqiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="basicUnit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.aiqiyi02">
+  <component name="RunManager" selected="Application.lexin2020_01">
     <configuration name="L7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="like100.L7" />
       <module name="leetcode" />
@@ -347,6 +262,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lexin2020_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.lexin2020_01" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -363,29 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L7.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="like100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="like100" />
-      <option name="MAIN_CLASS_NAME" value="like100.L7" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lexin2020_01" />
         <item itemvalue="Application.aiqiyi02" />
         <item itemvalue="Application.aiqiyi2020" />
         <item itemvalue="JUnit.L10.test" />
         <item itemvalue="Application.L7" />
-        <item itemvalue="JUnit.L7.test" />
       </list>
     </recent_temporary>
   </component>
@@ -453,14 +365,8 @@
       <workItem from="1580809551531" duration="9687000" />
       <workItem from="1580887855711" duration="3689000" />
       <workItem from="1580981137677" duration="3417000" />
-      <workItem from="1581162585176" duration="5680000" />
-    </task>
-    <task id="LOCAL-00052" summary="Prefix Tree">
-      <created>1579716598402</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1579716598420</updated>
+      <workItem from="1581162585176" duration="5869000" />
+      <workItem from="1581251331595" duration="5317000" />
     </task>
     <task id="LOCAL-00053" summary="Kth max element at array">
       <created>1579721232988</created>
@@ -798,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581165228840</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="aiqiyi2020">
+      <created>1581177651309</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1581177651309</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -834,12 +747,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="444081000" />
+    <option name="totallyTimeSpent" value="449587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25813776" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26192278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -849,8 +763,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37846154" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.38" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46615386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.18923077" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -915,7 +829,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="robber III" />
     <MESSAGE value=" Counting Bits" />
     <MESSAGE value="Top K Frequent Elements" />
     <MESSAGE value="decoding String" />
@@ -940,7 +853,8 @@
     <MESSAGE value="数组中重复的数字" />
     <MESSAGE value="regular expression matching" />
     <MESSAGE value="aiqiyi2020 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="aiqiyi2020 1" />
+    <MESSAGE value="aiqiyi2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="aiqiyi2020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1233,6 +1147,12 @@
           <properties />
           <option name="timeStamp" value="170" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nowcode/lexin2020_01.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1251,27 +1171,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#870#1063#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L300.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/like100/L301.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -1627,14 +1526,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21527">
-          <caret line="1205" selection-start-line="1205" selection-end-line="1205" />
-          <folding>
-            <element signature="e#10298#10299#0" expanded="true" />
-            <element signature="e#10374#10375#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1667,24 +1569,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="278">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1205" selection-start-line="1205" selection-end-line="1205" />
+          <folding>
+            <element signature="e#10298#10299#0" expanded="true" />
+            <element signature="e#10374#10375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicUnit/isPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/lexin2020_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
