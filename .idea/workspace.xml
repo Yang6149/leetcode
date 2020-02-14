@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/csnote/greedy/L406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/csnote/greedy/L406.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
@@ -38,6 +38,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="91">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -107,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L287.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L295.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L297.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L300.java" />
@@ -158,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L435.java" />
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L452.java" />
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L406.java" />
+        <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java" />
       </list>
     </option>
   </component>
@@ -254,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L406">
+  <component name="RunManager" selected="JUnit.L122">
     <configuration name="L406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="csnote.greedy.L406" />
       <module name="leetcode" />
@@ -268,16 +277,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L28.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="L122" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview100.*" />
+          <option name="PATTERN" value="csnote.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="interview100" />
-      <option name="MAIN_CLASS_NAME" value="interview100.L28" />
+      <option name="PACKAGE_NAME" value="csnote.greedy" />
+      <option name="MAIN_CLASS_NAME" value="csnote.greedy.L122" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L122.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="csnote.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="csnote.greedy" />
+      <option name="MAIN_CLASS_NAME" value="csnote.greedy.L122" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -316,29 +340,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L455.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="csnote.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="csnote.greedy" />
-      <option name="MAIN_CLASS_NAME" value="csnote.greedy.L455" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L122" />
+        <item itemvalue="JUnit.L122.test" />
         <item itemvalue="Application.L406" />
         <item itemvalue="JUnit.L452.test" />
         <item itemvalue="JUnit.L435.test" />
-        <item itemvalue="JUnit.L455.test" />
-        <item itemvalue="JUnit.L28.test" />
       </list>
     </recent_temporary>
   </component>
@@ -413,14 +421,7 @@
       <workItem from="1581525467731" duration="488000" />
       <workItem from="1581594670473" duration="5715000" />
       <workItem from="1581608296056" duration="668000" />
-      <workItem from="1581661063756" duration="3043000" />
-    </task>
-    <task id="LOCAL-00060" summary="Product of Array Except Self">
-      <created>1579793252558</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1579793252558</updated>
+      <workItem from="1581661063756" duration="4765000" />
     </task>
     <task id="LOCAL-00061" summary="滑动窗口问题">
       <created>1579800669190</created>
@@ -758,43 +759,50 @@
       <option name="project" value="LOCAL" />
       <updated>1581608967311</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="垂直扎气球">
+      <created>1581692972208</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1581692972210</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L435_test - 2020.02.13 at 22h 34m 27s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L435_test - 2020.02.13 at 22h 38m 10s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L435_test - 2020.02.13 at 22h 39m 47s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L435_test - 2020.02.13 at 22h 40m 07s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L435_test - 2020.02.13 at 22h 40m 27s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L435_test - 2020.02.13 at 22h 41m 08s.xml">
-      <configuration name="L435.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L452_test - 2020.02.13 at 23h 45m 31s.xml">
-      <configuration name="L452.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L452_test - 2020.02.13 at 23h 46m 34s.xml">
-      <configuration name="L452.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L452_test - 2020.02.13 at 23h 48m 21s.xml">
       <configuration name="L452.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="L452_test - 2020.02.13 at 23h 48m 26s.xml">
       <configuration name="L452.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 31m 35s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 31m 38s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 32m 02s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 33m 08s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 34m 02s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 35m 43s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122_test - 2020.02.14 at 23h 35m 52s.xml">
+      <configuration name="L122.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L122 - 2020.02.14 at 23h 39m 27s.xml">
+      <configuration name="L122" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468609000" />
+    <option name="totallyTimeSpent" value="470331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -810,8 +818,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21538462" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4369231" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35846153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32615384" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1230,6 +1238,12 @@
           <properties />
           <option name="timeStamp" value="190" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1248,16 +1262,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L437.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16169">
@@ -1662,6 +1666,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
