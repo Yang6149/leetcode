@@ -1,9 +1,8 @@
-package contest176;
+package contest.contest176;
 
 import org.junit.Test;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class L1353 {
     public int maxEvents(int[][] event) {

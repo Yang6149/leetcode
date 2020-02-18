@@ -1,4 +1,4 @@
-package contest176;
+package contest.contest176;
 
 import java.util.ArrayList;
 

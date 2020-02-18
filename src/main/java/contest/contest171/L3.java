@@ -1,9 +1,6 @@
-package contest171;
+package contest.contest171;
 
 import org.junit.Test;
-
-import java.util.Comparator;
-import java.util.*;
 
 /**
  *  i will go back

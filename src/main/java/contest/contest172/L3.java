@@ -1,4 +1,4 @@
-package contest172;
+package contest.contest172;
 
 import like100.TreeNode;
 

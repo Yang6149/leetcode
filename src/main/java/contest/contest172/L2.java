@@ -1,4 +1,4 @@
-package contest172;
+package contest.contest172;
 
 import org.junit.Test;
 
