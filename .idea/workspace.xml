@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhiOffer/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhiOffer/L4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -51,11 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -87,19 +96,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="303">
               <caret line="1179" column="32" lean-forward="true" selection-start-line="1179" selection-start-column="32" selection-end-line="1179" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1406">
-              <caret line="98" column="32" selection-start-line="98" selection-start-column="32" selection-end-line="98" selection-end-column="32" />
-              <folding>
-                <element signature="e#7999#8000#0" expanded="true" />
-                <element signature="e#8047#8048#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L543.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L560.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L581.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/TreeNode.java" />
@@ -206,6 +201,7 @@
         <option value="$PROJECT_DIR$/src/main/java/temp/Son.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/BasketAndBall.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L4.java" />
       </list>
     </option>
   </component>
@@ -465,14 +461,7 @@
       <workItem from="1582027787297" duration="7224000" />
       <workItem from="1582097930489" duration="226000" />
       <workItem from="1582125218163" duration="2467000" />
-      <workItem from="1582200652968" duration="7072000" />
-    </task>
-    <task id="LOCAL-00067" summary="Tree的序列化和反序列化">
-      <created>1579962885348</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1579962885348</updated>
+      <workItem from="1582200652968" duration="7815000" />
     </task>
     <task id="LOCAL-00068" summary="Longest Increasing Subsequence">
       <created>1579965510327</created>
@@ -810,7 +799,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582200783241</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="剑指">
+      <created>1582213950427</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1582213950427</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -846,7 +842,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="501493000" />
+    <option name="totallyTimeSpent" value="502236000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -937,7 +933,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="merge Tree" />
     <MESSAGE value="Task Scheduler" />
     <MESSAGE value="遍历回文 Palindromic Substrings" />
     <MESSAGE value="最后一个，在原数组里面反向dp到第一个" />
@@ -962,7 +957,8 @@
     <MESSAGE value="contest 176" />
     <MESSAGE value="commit" />
     <MESSAGE value="自上而下篮子" />
-    <option name="LAST_COMMIT_MESSAGE" value="自上而下篮子" />
+    <MESSAGE value="剑指" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1340,13 +1336,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/testenum/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testenum/TestStatic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1736,6 +1725,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
