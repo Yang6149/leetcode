@@ -2,32 +2,37 @@ package like100;
 
 import org.junit.Test;
 
+/**
+ * 时间复杂度为o(N) 空间复杂度为o(1)
+ * 每一次lefr 和 right 进行比较 ，大的那个树是目前为止最大的数，比如是right
+ * 把left 和 maxLeft 进行比较 差值累加到 res 里
+ */
 public class L42 {
     public int trap(int[] height) {
-        //find a begin;
-        //find next by index until value of index >=begin
-        //找到了最大的，之后不算了
-        //全部反向找一边直到begin
-        int begin=0;
-        int sum=0;
-        for(int i=1;i<height.length;i++){
-            if(height[begin]<=height[i]){
-                for(int j=begin+1;j<i;j++){
-                    sum+=height[begin]-height[j];
+
+        int left = 0;
+        int right = height.length-1;
+        int res = 0;
+        int maxLeft = 0;
+        int maxRight = 0;
+        while(left<right){
+            if(height[left]>=height[right]){
+                if(height[right]>=maxRight){
+                    maxRight=height[right];
+                }else{
+                    res+=maxRight-height[right];
                 }
-                begin=i;
+                right--;
+            }else{
+                if(height[left]>=maxLeft){
+                    maxLeft = height[left];
+                }else{
+                    res+=maxLeft-height[left];
+                }
+                left++;
             }
         }
-        int begin2=height.length-1;
-        for(int i=height.length-2;i>=begin;i--){
-            if(height[begin2]<height[i]){
-                for(int j=begin2-1;j>i;j--){
-                    sum+=height[begin2]-height[j];
-                }
-                begin2=i;
-            }
-        }
-        return sum;
+        return res;
     }
     @Test
     public void test(){
