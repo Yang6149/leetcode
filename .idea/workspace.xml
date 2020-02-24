@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,10 +47,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="190">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -84,9 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/interview100/L412.java" />
-        <option value="$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview100/L237.java" />
         <option value="$PROJECT_DIR$/src/main/java/testenum/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testenum/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/testenum/TestStatic.java" />
@@ -135,6 +142,9 @@
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_4.java" />
       </list>
     </option>
   </component>
@@ -398,21 +408,7 @@
       <workItem from="1582300016832" duration="2509000" />
       <workItem from="1582367591542" duration="2002000" />
       <workItem from="1582436698382" duration="2478000" />
-      <workItem from="1582552132651" duration="1565000" />
-    </task>
-    <task id="LOCAL-00074" summary=" Counting Bits">
-      <created>1580135904055</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1580135904055</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Top K Frequent Elements">
-      <created>1580137779369</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1580137779369</updated>
+      <workItem from="1582552132651" duration="2268000" />
     </task>
     <task id="LOCAL-00076" summary="Top K Frequent Elements">
       <created>1580138831867</created>
@@ -743,7 +739,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582553486109</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="斐波那契数列">
+      <created>1582554017660</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1582554017660</updated>
+    </task>
+    <task id="LOCAL-00124" summary="斐波那契数列">
+      <created>1582554116885</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1582554116886</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -779,7 +789,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="511438000" />
+    <option name="totallyTimeSpent" value="512141000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -794,7 +804,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21120363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21120363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -814,7 +824,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3353846" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.23076923" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1267,31 +1277,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="236" column="23" selection-start-line="236" selection-start-column="23" selection-end-line="236" selection-end-column="23" />
-          <folding>
-            <element signature="e#8746#8747#0" expanded="true" />
-            <element signature="e#8783#8784#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Spliterators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="665" column="33" selection-start-line="665" selection-start-column="33" selection-end-line="665" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/RandomAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1650,6 +1635,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1663,10 +1669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
