@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,11 +17,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#763#764#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="e#78#87#0" expanded="true" />
+                <element signature="e#128#137#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L739.java" />
         <option value="$PROJECT_DIR$/src/main/java/temp/VersionCompare.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview100/L412.java" />
         <option value="$PROJECT_DIR$/src/main/java/recursion/SwapNodeInPair.java" />
@@ -108,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L7.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L42.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java" />
       </list>
     </option>
   </component>
@@ -371,14 +389,7 @@
       <workItem from="1582300016832" duration="2509000" />
       <workItem from="1582367591542" duration="2002000" />
       <workItem from="1582436698382" duration="2478000" />
-      <workItem from="1582552132651" duration="683000" />
-    </task>
-    <task id="LOCAL-00071" summary="dp hard&#10;google interview question">
-      <created>1580056751022</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1580056751024</updated>
+      <workItem from="1582552132651" duration="984000" />
     </task>
     <task id="LOCAL-00072" summary="change coins">
       <created>1580132701626</created>
@@ -716,7 +727,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582367848740</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="中序遍历的下一个节点">
+      <created>1582552990063</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1582552990064</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -752,7 +770,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="510556000" />
+    <option name="totallyTimeSpent" value="510857000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -767,7 +785,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21120363" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21120363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -787,7 +805,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3353846" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.28923076" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -843,7 +861,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="最后一个，在原数组里面反向dp到第一个" />
     <MESSAGE value="羽翼版本比较" />
     <MESSAGE value="L412" />
     <MESSAGE value="很皮的一题" />
@@ -868,7 +885,8 @@
     <MESSAGE value="二维排序数组找确定值" />
     <MESSAGE value="commit" />
     <MESSAGE value="优化 trapping rainWater" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化 trapping rainWater" />
+    <MESSAGE value="中序遍历的下一个节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="中序遍历的下一个节点" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1240,13 +1258,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/interview100/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="23" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1634,8 +1645,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="e#78#87#0" expanded="true" />
+            <element signature="e#128#137#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
