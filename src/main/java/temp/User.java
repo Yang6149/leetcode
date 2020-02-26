@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class User implements Serializable {
-
+    public static int a=0;
     private String name;
     private String Password;
     private int age;
