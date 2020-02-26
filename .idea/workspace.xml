@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/temp/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/temp/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/temp/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L9.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,14 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="74" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -151,7 +150,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/like100/L7.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L10.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi2020.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/aiqiyi/aiqiyi2020.java" />
@@ -202,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/main/java/temp/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/temp/Serializ.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java" />
       </list>
     </option>
   </component>
@@ -255,7 +254,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="meituan" type="462c0819:PsiDirectoryNode" />
+              <item name="jianzhiOffer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -465,14 +464,7 @@
       <workItem from="1582436698382" duration="2478000" />
       <workItem from="1582552132651" duration="6177000" />
       <workItem from="1582640721442" duration="3211000" />
-      <workItem from="1582720640908" duration="2548000" />
-    </task>
-    <task id="LOCAL-00079" summary="背包问题变形">
-      <created>1580225145749</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1580225145751</updated>
+      <workItem from="1582720640908" duration="2787000" />
     </task>
     <task id="LOCAL-00080" summary="hard 级的 easy题  Path III">
       <created>1580231125923</created>
@@ -810,7 +802,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582643805739</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="减绳子">
+      <created>1582732157853</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1582732157854</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -846,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="521809000" />
+    <option name="totallyTimeSpent" value="522048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -861,7 +860,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3533026" visible="true" weight="0.21725965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3533026" visible="true" weight="0.21725965" />
       <window_info id="Structure" order="1" sideWeight="0.64615387" side_tool="true" weight="0.21423164" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -871,7 +870,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21384615" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21384615" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.51692307" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -937,7 +936,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="不能通过实例类访问静态成员" />
     <MESSAGE value="数组中重复的数字" />
     <MESSAGE value="regular expression matching" />
     <MESSAGE value="aiqiyi2020 1" />
@@ -962,7 +960,8 @@
     <MESSAGE value="变态跳台阶" />
     <MESSAGE value="commit" />
     <MESSAGE value="机器人" />
-    <option name="LAST_COMMIT_MESSAGE" value="机器人" />
+    <MESSAGE value="减绳子" />
+    <option name="LAST_COMMIT_MESSAGE" value="减绳子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1007,13 +1006,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/contest176.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L25.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1392,10 +1384,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="74" />
         </state>
       </provider>
     </entry>
