@@ -1,40 +1,35 @@
 package gongsi.meituan;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class L1 {
     public static void main(String [] args){
         Scanner in = new Scanner(System.in);
-        int num = in.nextInt();
-        int [][] bian = new int[num-1][2];
-        for(int i=0;i<bian.length;i++){
-            bian[i][0]=in.nextInt();
-            bian[i][1]=in.nextInt();
-        }
-        int deep = 0;
-        int cur=0;
-        ArrayList<Integer>[] arrays = new ArrayList [num+1];
-        for(int i=0;i<bian.length;i++){
-            if(arrays[bian[i][0]]==null){
-                arrays[bian[i][0]]=new ArrayList<Integer>();
+        int n = in.nextInt();
+        HashMap<Integer,ArrayList<Integer>> map = new HashMap();
+        for(int i=0;i<n-1;i++){
+            int a = in.nextInt();
+            int b = in.nextInt();
+            if(!map.containsKey(a)){
+                map.put(a,new ArrayList<Integer>());
             }
-            arrays[bian[i][0]].add(bian[i][1]);
+            map.get(a).add(b);
+            if(!map.containsKey(b)){
+                map.put(b,new ArrayList<Integer>());
+            }
+            map.get(b).add(a);
         }
-        deep = de(arrays,1)-1;
-        System.out.println((num-1)*2-deep);
+        System.out.println((n-1)*2-move(map,1)+1);
     }
-    public static int de(ArrayList<Integer> [] arrays,int cur){
-        int max=0;
-        for(int i:arrays[cur]){
-            if(arrays[i]==null){
-                max=1;
-                continue;
-            }
-            max=Math.max(max,de(arrays,i));
+    public static int move(HashMap<Integer,ArrayList<Integer>> map,int cur){
+        int maxDeep=0;
+        if(map.get(cur)==null)return 1;
+        for(int i:map.get(cur)){
+            maxDeep = Math.max(maxDeep,move(map,i));
         }
-        return max+1;
-
+        return maxDeep+1;
     }
 
 }
