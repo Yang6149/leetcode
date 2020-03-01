@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iaa/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iaa/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/iaa/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,19 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="96">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,44 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L3.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringBuffer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7201">
-              <caret line="423" column="18" selection-start-line="423" selection-start-column="18" selection-end-line="423" selection-end-column="18" />
-              <folding>
-                <element signature="e#4715#4716#0" expanded="true" />
-                <element signature="e#4740#4741#0" expanded="true" />
-                <element signature="e#5111#5112#0" expanded="true" />
-                <element signature="e#5142#5143#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="95">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -117,10 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/nowcode/lexin2020_02.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview100/L8.java" />
-        <option value="$PROJECT_DIR$/src/main/java/interview100/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/like100/L28.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview100/L28.java" />
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L455.java" />
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L435.java" />
@@ -168,6 +119,10 @@
         <option value="$PROJECT_DIR$/src/main/java/iaa/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/iaa/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/iaa/L3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" />
       </list>
     </option>
   </component>
@@ -219,7 +174,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iaa" type="462c0819:PsiDirectoryNode" />
+              <item name="gongsi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gongsi" type="462c0819:PsiDirectoryNode" />
+              <item name="tencent2020q" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L3 (1)">
-    <configuration name="L1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iaa.L1" />
+  <component name="RunManager" selected="Application.L3">
+    <configuration name="L1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gongsi.tencent2020q.L1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iaa.*" />
+          <option name="PATTERN" value="gongsi.tencent2020q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +243,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iaa.L2" />
+    <configuration name="L2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gongsi.tencent2020q.L2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iaa.*" />
+          <option name="PATTERN" value="gongsi.tencent2020q.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gongsi.yuanjing.L2" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gongsi.yuanjing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,24 +283,11 @@
       </method>
     </configuration>
     <configuration name="L3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gongsi.meituan.L3" />
+      <option name="MAIN_CLASS_NAME" value="gongsi.tencent2020q.L3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gongsi.meituan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gongsi.meituan.L5" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gongsi.meituan.*" />
+          <option name="PATTERN" value="gongsi.tencent2020q.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.L3 (1)" />
-        <item itemvalue="Application.L2 (1)" />
-        <item itemvalue="Application.L1 (1)" />
-        <item itemvalue="Application.L5" />
         <item itemvalue="Application.L3" />
+        <item itemvalue="Application.L2 (2)" />
+        <item itemvalue="Application.L1" />
+        <item itemvalue="Application.L2" />
+        <item itemvalue="Application.L3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -426,14 +390,9 @@
       <workItem from="1582552132651" duration="6177000" />
       <workItem from="1582640721442" duration="3211000" />
       <workItem from="1582720640908" duration="3620000" />
-      <workItem from="1582783743147" duration="9602000" />
-    </task>
-    <task id="LOCAL-00081" summary="滑动窗口查找乱序string">
-      <created>1580304394141</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1580304394145</updated>
+      <workItem from="1582783743147" duration="10218000" />
+      <workItem from="1582876256629" duration="3639000" />
+      <workItem from="1583083571168" duration="4920000" />
     </task>
     <task id="LOCAL-00082" summary="Find All Numbers Disappeared in an Array&#10;no extra space O(n)">
       <created>1580305090055</created>
@@ -771,7 +730,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582732441632</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="O">
+      <created>1582815713944</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1582815713946</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -807,7 +773,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532483000" />
+    <option name="totallyTimeSpent" value="541658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,8 +788,8 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8547794" visible="true" weight="0.22028767" />
-      <window_info id="Structure" order="1" sideWeight="0.1452206" side_tool="true" visible="true" weight="0.22028767" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73121387" visible="true" weight="0.22785768" />
+      <window_info id="Structure" order="1" sideWeight="0.26878613" side_tool="true" visible="true" weight="0.22785768" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -832,8 +798,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16307692" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5507692" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26923078" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46769232" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
@@ -898,7 +864,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="数组中重复的数字" />
     <MESSAGE value="regular expression matching" />
     <MESSAGE value="aiqiyi2020 1" />
     <MESSAGE value="aiqiyi2020" />
@@ -923,7 +888,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="机器人" />
     <MESSAGE value="减绳子" />
-    <option name="LAST_COMMIT_MESSAGE" value="减绳子" />
+    <MESSAGE value="O" />
+    <option name="LAST_COMMIT_MESSAGE" value="O" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -965,6 +931,19 @@
           <properties />
           <option name="timeStamp" value="224" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="s.charAt(i)=='|'" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -986,6 +965,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
       <expression>
+        <expression-string>s.charAt(i)=='|'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>x==18</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -998,28 +982,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19437">
-          <caret line="1068" selection-start-line="1068" selection-end-line="1068" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/csnote/greedy/L452.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/contest.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1664">
-          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest176/L1354.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1308,33 +1270,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7201">
-          <caret line="423" column="18" selection-start-line="423" selection-start-column="18" selection-end-line="423" selection-end-column="18" />
-          <folding>
-            <element signature="e#4715#4716#0" expanded="true" />
-            <element signature="e#4740#4741#0" expanded="true" />
-            <element signature="e#5111#5112#0" expanded="true" />
-            <element signature="e#5142#5143#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/meituan/L1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -1371,25 +1306,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
+        <state relative-caret-position="665">
           <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="247">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iaa/L3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7201">
+          <caret line="423" column="18" selection-start-line="423" selection-start-column="18" selection-end-line="423" selection-end-column="18" />
+          <folding>
+            <element signature="e#4715#4716#0" expanded="true" />
+            <element signature="e#4740#4741#0" expanded="true" />
+            <element signature="e#5111#5112#0" expanded="true" />
+            <element signature="e#5142#5143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
         </state>
       </provider>
     </entry>
