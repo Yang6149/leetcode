@@ -12,9 +12,13 @@ public class L2 {
             level[i]=in.nextInt();
         }
         int dpasc [] = new int[num];
+        int dasc [] = new int[num];
         Arrays.fill(dpasc,1);
+        Arrays.fill(dasc,1);
         int dpdesc [] = new int[num];
+        int ddesc [] = new int[num];
         Arrays.fill(dpdesc,1);
+        Arrays.fill(ddesc,1);
         for(int i=1;i<num;i++){
             for(int j=i-1;j>=0;j--){
                 if(level[j]>level[i]){
@@ -31,6 +35,7 @@ public class L2 {
                 }
             }
         }
+
         if(num<2){
             System.out.print(1);
         }else{
