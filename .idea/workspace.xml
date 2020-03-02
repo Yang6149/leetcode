@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
+            <state relative-caret-position="114">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -33,11 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="57">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,9 +129,9 @@
         <option value="$PROJECT_DIR$/src/main/java/iaa/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/iaa/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" />
       </list>
     </option>
   </component>
@@ -143,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,7 +199,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -229,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L3">
+  <component name="RunManager" selected="Application.L1">
     <configuration name="L1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gongsi.tencent2020q.L1" />
       <module name="leetcode" />
@@ -297,9 +306,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L1" />
         <item itemvalue="Application.L3" />
         <item itemvalue="Application.L2 (2)" />
-        <item itemvalue="Application.L1" />
         <item itemvalue="Application.L2" />
         <item itemvalue="Application.L3 (1)" />
       </list>
@@ -392,14 +401,8 @@
       <workItem from="1582720640908" duration="3620000" />
       <workItem from="1582783743147" duration="10218000" />
       <workItem from="1582876256629" duration="3639000" />
-      <workItem from="1583083571168" duration="4920000" />
-    </task>
-    <task id="LOCAL-00082" summary="Find All Numbers Disappeared in an Array&#10;no extra space O(n)">
-      <created>1580305090055</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1580305090055</updated>
+      <workItem from="1583083571168" duration="5063000" />
+      <workItem from="1583167572932" duration="502000" />
     </task>
     <task id="LOCAL-00083" summary="可转化为在一组数组中 寻找一定Sum 的不同set个数">
       <created>1580311214300</created>
@@ -737,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582815713946</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="腾讯3道">
+      <created>1583089198992</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1583089198994</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -773,7 +783,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="541658000" />
+    <option name="totallyTimeSpent" value="542333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,8 +798,8 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.73121387" visible="true" weight="0.22785768" />
-      <window_info id="Structure" order="1" sideWeight="0.26878613" side_tool="true" visible="true" weight="0.22785768" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72789115" visible="true" weight="0.2316427" />
+      <window_info id="Structure" order="1" sideWeight="0.27210885" side_tool="true" visible="true" weight="0.2316427" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -799,7 +809,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.26923078" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46769232" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5476923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
@@ -864,7 +874,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="regular expression matching" />
     <MESSAGE value="aiqiyi2020 1" />
     <MESSAGE value="aiqiyi2020" />
     <MESSAGE value="求素数" />
@@ -889,7 +898,8 @@
     <MESSAGE value="机器人" />
     <MESSAGE value="减绳子" />
     <MESSAGE value="O" />
-    <option name="LAST_COMMIT_MESSAGE" value="O" />
+    <MESSAGE value="腾讯3道" />
+    <option name="LAST_COMMIT_MESSAGE" value="腾讯3道" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -939,10 +949,10 @@
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java</url>
-          <line>8</line>
+          <url>file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java</url>
+          <line>56</line>
           <properties />
-          <option name="timeStamp" value="229" />
+          <option name="timeStamp" value="227" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1365,19 +1375,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="42" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="114">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1387,8 +1387,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="57">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="847">
+          <caret line="58" column="50" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
