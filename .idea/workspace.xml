@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,7 +41,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
+            <state relative-caret-position="-236">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -413,14 +411,7 @@
       <workItem from="1582876256629" duration="3639000" />
       <workItem from="1583083571168" duration="5063000" />
       <workItem from="1583167572932" duration="6453000" />
-      <workItem from="1583246501999" duration="4491000" />
-    </task>
-    <task id="LOCAL-00086" summary="findUnsortSubArray">
-      <created>1580371617662</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1580371617664</updated>
+      <workItem from="1583246501999" duration="5104000" />
     </task>
     <task id="LOCAL-00087" summary="merge Tree">
       <created>1580377543934</created>
@@ -758,7 +749,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583248390608</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="动态规划">
+      <created>1583251723032</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1583251723033</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -794,7 +792,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="552745000" />
+    <option name="totallyTimeSpent" value="553358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -809,8 +807,8 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72521245" visible="true" weight="0.2354277" />
-      <window_info id="Structure" order="1" sideWeight="0.27478755" side_tool="true" visible="true" weight="0.2354277" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7276923" visible="true" weight="0.2354277" />
+      <window_info id="Structure" order="1" sideWeight="0.2723077" side_tool="true" visible="true" weight="0.2354277" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -819,7 +817,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45692307" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45692307" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44153845" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -885,7 +883,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aiqiyi2020" />
     <MESSAGE value="求素数" />
     <MESSAGE value="String to value" />
     <MESSAGE value="longestCommonPrefix" />
@@ -910,7 +907,8 @@
     <MESSAGE value="O" />
     <MESSAGE value="腾讯3道" />
     <MESSAGE value="最优解 有序栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="最优解 有序栈" />
+    <MESSAGE value="动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1426,7 +1424,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
+        <state relative-caret-position="-236">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
