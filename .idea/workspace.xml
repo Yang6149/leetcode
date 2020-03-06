@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/wangyi/L1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nowcode/wangyi/L2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -69,14 +69,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -144,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L122.java" />
         <option value="$PROJECT_DIR$/src/main/java/csnote/greedy/L605.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview100/L25.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest176.java" />
@@ -195,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/main/java/util/ArraysUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/like100/L1024.java" />
         <option value="$PROJECT_DIR$/src/main/java/nowcode/wangyi/L1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/nowcode/wangyi/L2.java" />
       </list>
     </option>
   </component>
@@ -317,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L1.test">
+  <component name="RunManager" selected="Application.L2">
     <configuration name="ArraysUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="util.ArraysUtil" />
       <module name="leetcode" />
@@ -331,12 +340,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gongsi.tencent2020q.L2" />
+    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcode.wangyi.L2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gongsi.tencent2020q.*" />
+          <option name="PATTERN" value="nowcode.wangyi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -391,11 +400,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L2" />
         <item itemvalue="JUnit.L1.test" />
         <item itemvalue="JUnit.L1024.test" />
         <item itemvalue="Application.ArraysUtil" />
         <item itemvalue="Application.L4" />
-        <item itemvalue="Application.L2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -491,14 +500,7 @@
       <workItem from="1583246501999" duration="5104000" />
       <workItem from="1583294357832" duration="7114000" />
       <workItem from="1583421681214" duration="561000" />
-      <workItem from="1583506002958" duration="1288000" />
-    </task>
-    <task id="LOCAL-00089" summary="遍历回文 Palindromic Substrings">
-      <created>1580386667784</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1580386667784</updated>
+      <workItem from="1583506002958" duration="2041000" />
     </task>
     <task id="LOCAL-00090" summary="最后一个，在原数组里面反向dp到第一个">
       <created>1580388422023</created>
@@ -836,7 +838,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583327291285</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="wangyi">
+      <created>1583507340126</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1583507340134</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -872,7 +881,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="562321000" />
+    <option name="totallyTimeSpent" value="563074000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -885,10 +894,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71907216" visible="true" weight="0.24678273" />
-      <window_info id="Structure" order="1" sideWeight="0.28092784" side_tool="true" visible="true" weight="0.24678273" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7199211" visible="true" weight="0.24678273" />
+      <window_info id="Structure" order="1" sideWeight="0.2800789" side_tool="true" visible="true" weight="0.24678273" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -897,8 +905,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40307692" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40923077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48153847" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.22" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
@@ -963,7 +971,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String to value" />
     <MESSAGE value="longestCommonPrefix" />
     <MESSAGE value="28. Implement strStr() EASY" />
     <MESSAGE value="greedy easy 读好题" />
@@ -988,7 +995,8 @@
     <MESSAGE value="最优解 有序栈" />
     <MESSAGE value="动态规划" />
     <MESSAGE value="greedy" />
-    <option name="LAST_COMMIT_MESSAGE" value="greedy" />
+    <MESSAGE value="wangyi" />
+    <option name="LAST_COMMIT_MESSAGE" value="wangyi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1061,6 +1069,12 @@
           <properties />
           <option name="timeStamp" value="244" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -1099,13 +1113,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest100/L899.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3705">
@@ -1517,10 +1524,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
