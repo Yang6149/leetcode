@@ -1,18 +1,21 @@
 package jianzhiOffer;
 
 public class L16 {
+    //递归O（logn）
     public double Power(double base, int exponent) {
+        if (exponent == 0)
+            return 1;
+        if (exponent == 1)
+            return base;
         double res=1;
-        if(exponent>0){
-            while(exponent-->0){
-                res*=base;
-            }
-        }else if(exponent<0){
-            while(exponent++<0){
-                res/=base;
-            }
+        boolean isNegative = false;
+        if (exponent < 0) {
+            exponent = -exponent;
+            isNegative = true;
         }
-
-        return res;
+        double pow = Power(base * base, exponent / 2);
+        if (exponent % 2 != 0)
+            pow = pow * base;
+        return isNegative ? 1 / pow : pow;
     }
 }
