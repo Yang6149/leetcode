@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/temp/IteraLinked.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,18 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/like100/L1024.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/wangyi/L1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,17 +60,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
+            <state relative-caret-position="589">
               <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="304">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/temp/IteraLinked.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/contest176/L1352.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest176/L1353.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest176/L1354.java" />
         <option value="$PROJECT_DIR$/src/main/java/contest/contest176/L1354.java" />
@@ -204,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L19.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L17.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/temp/IteraLinked.java" />
       </list>
     </option>
   </component>
@@ -224,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,31 +256,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="nowcode" type="462c0819:PsiDirectoryNode" />
-              <item name="wangyi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,7 +270,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -334,7 +309,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QuickSort.test">
+  <component name="RunManager" selected="Application.IteraLinked">
+    <configuration name="IteraLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp.IteraLinked" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nowcode.wangyi.L2" />
       <module name="leetcode" />
@@ -380,22 +368,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nowcode.wangyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="nowcode.wangyi" />
-      <option name="MAIN_CLASS_NAME" value="nowcode.wangyi.L1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QuickSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
@@ -414,11 +386,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteraLinked" />
         <item itemvalue="JUnit.QuickSort.test" />
         <item itemvalue="JUnit.L17.test" />
         <item itemvalue="JUnit.L15.main" />
         <item itemvalue="Application.L2" />
-        <item itemvalue="JUnit.L1.test" />
       </list>
     </recent_temporary>
   </component>
@@ -516,14 +488,8 @@
       <workItem from="1583421681214" duration="561000" />
       <workItem from="1583506002958" duration="2304000" />
       <workItem from="1583766604237" duration="1831000" />
-      <workItem from="1583851165297" duration="3139000" />
-    </task>
-    <task id="LOCAL-00094" summary="枚举测试">
-      <created>1580809808814</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1580809808814</updated>
+      <workItem from="1583851165297" duration="3282000" />
+      <workItem from="1583922458590" duration="289000" />
     </task>
     <task id="LOCAL-00095" summary="不能通过实例类访问静态成员">
       <created>1580811025564</created>
@@ -861,16 +827,17 @@
       <option name="project" value="LOCAL" />
       <updated>1583768448509</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="这个快排我吹爆">
+      <created>1583855585764</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1583855585766</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L17_test - 2020.03.09 at 23h 38m 32s.xml">
-      <configuration name="L17.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="L17_test - 2020.03.09 at 23h 39m 49s.xml">
-      <configuration name="L17.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="L17_test - 2020.03.09 at 23h 40m 03s.xml">
       <configuration name="L17.test" configurationId="JUnit" />
     </history-entry>
@@ -895,9 +862,15 @@
     <history-entry file="QuickSort_test - 2020.03.10 at 23h 34m 36s.xml">
       <configuration name="QuickSort.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QuickSort_test - 2020.03.10 at 23h 50m 55s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_test - 2020.03.10 at 23h 52m 43s.xml">
+      <configuration name="QuickSort.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="568307000" />
+    <option name="totallyTimeSpent" value="568739000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -912,8 +885,8 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71626985" visible="true" weight="0.25435275" />
-      <window_info id="Structure" order="1" sideWeight="0.28373015" side_tool="true" visible="true" weight="0.25435275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7153846" visible="true" weight="0.25813776" />
+      <window_info id="Structure" order="1" sideWeight="0.2846154" side_tool="true" visible="true" weight="0.25813776" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -922,7 +895,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22461538" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31692308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35384616" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -988,7 +961,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Non-overlapping Intervals" />
     <MESSAGE value="垂直扎气球" />
     <MESSAGE value="连续股票" />
     <MESSAGE value="分段反转链表，有思路了再写" />
@@ -1013,7 +985,8 @@
     <MESSAGE value="位运算" />
     <MESSAGE value="c" />
     <MESSAGE value="打印东西" />
-    <option name="LAST_COMMIT_MESSAGE" value="打印东西" />
+    <MESSAGE value="这个快排我吹爆" />
+    <option name="LAST_COMMIT_MESSAGE" value="这个快排我吹爆" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1142,13 +1115,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/nowcode/BasketAndBall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -1518,6 +1484,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25650">
@@ -1545,17 +1518,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L17.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="304">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/IteraLinked.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state relative-caret-position="380">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
