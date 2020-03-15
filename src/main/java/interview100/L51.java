@@ -3,8 +3,10 @@ package interview100;
 import org.junit.Test;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.concurrent.ConcurrentHashMap;
 
 public class L51 {
     List<List<String>> res = new ArrayList<>();
@@ -57,10 +59,19 @@ public class L51 {
         }
         return true;
     }
-
+    int tableSizeFor(int cap) {
+        int n = cap - 1;
+        n |= n >>> 1;
+        n |= n >>> 2;
+        n |= n >>> 4;
+        n |= n >>> 8;
+        n |= n >>> 16;
+        return (n < 0) ? 1 : (n >= 1 << 30) ? 1 << 30 : n + 1;
+    }
     @Test
     public void tets(){
-
-        System.out.println(solveNQueens(4));
+        System.out.println(tableSizeFor(153));
+        //new HashMap<>(648);
+        //System.out.println(solveNQueens(4));
     }
 }

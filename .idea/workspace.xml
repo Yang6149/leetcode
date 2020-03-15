@@ -1,9 +1,188 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" line="271" />
+    <bookmark url="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" line="269" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/interview100/L51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/contest180/L5179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/contest180/L5356.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/contest180/L5357.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/contest/contest180/L5359.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interview100/L51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/interview100/L51.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/L3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basicUnit/isPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/basicUnit/isPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest100/L896.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest100/L896.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest100/L897.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest100/L897.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest100/L898.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest100/L898.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest100/L899.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest100/L899.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest171/L1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest171/L1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest171/L3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest171/L3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest172/L1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest172/L1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest172/L2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest172/L2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest172/L3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest172/L3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest172/L4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest172/L4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1351$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1351$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1351.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1351.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1352$ProductOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1352$ProductOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1352.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1352.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1353.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1353.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/contest/contest176/L1354.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/contest/contest176/L1354.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L122.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L122.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L406.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L406.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L435$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L435$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L435.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L435.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L452$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L452$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L452.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L452.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L455.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L455.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/csnote/greedy/L605.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/csnote/greedy/L605.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/L237.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/L237.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/L25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/L25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/L28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/L28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/L412.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/L412.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/L8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/L8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interview100/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/interview100/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L105.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L105.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L114.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L114.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L1187.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L1187.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L124.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L124.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L128.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L128.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L1318.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L1318.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L136.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L136.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L138$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L138$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L138.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L138.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L139.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L139.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L141.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L141.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L142.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L142.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L146$Nooo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L146$Nooo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L146.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L146.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L148.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L148.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L152.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L152.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L155.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L155.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L160.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L160.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L169.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L169.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L187RepeatedDNA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L187RepeatedDNA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L198.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L198.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L1Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L1Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L200.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L200.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L207.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L207.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L208$CharTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L208$CharTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L208.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L208.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L215$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L215$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L215.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L221.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L221.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L226.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L226.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L23$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L23$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L234.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L234.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L236.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L236.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L238.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L238.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L239.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L239.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L240.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L240.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L279.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L279.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L283.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L283.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L287.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L287.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L295$MedianFinder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L295$MedianFinder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L295$MedianFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L295$MedianFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L295.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L295.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L297.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L297.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L2AddTowNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L2AddTowNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L300.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L300.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L301.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L301.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L309.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L309.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L312.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L312.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L32.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L32.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L322.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L322.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L33.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L337.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L337.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L338.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L338.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L347.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L347.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L39.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L39.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L394.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L394.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L406$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L406$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L406.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L406.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L41.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L416.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L416.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L42.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L437.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L437.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L438.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L438.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L448.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L448.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L46.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L46.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L48.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L48.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L49.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L49.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L494.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L494.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L500KeyBoardRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L500KeyBoardRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L53.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L543.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L543.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L55.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L55.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L56.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L56.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L560.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L560.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L581.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L581.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L617.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L617.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L62.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L62.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L621.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L621.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L63.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L63.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L647.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L647.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L72.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L72.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L739.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L739.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L75.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L76.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L78$SASA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L78$SASA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L78.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L78.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L79.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L79.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L84.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L84.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L85.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L85.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L96.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L96.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/L98.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/L98.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/like100/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/like100/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mockInterview/L1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mockInterview/L1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mockInterview/L2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mockInterview/L2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L2$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L2$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mockInterview/phone1/L2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/BasketAndBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/BasketAndBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/L1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/L1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/L2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/L2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/L3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/L3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/L5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/L5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/aiqiyi/aiqiyi02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/aiqiyi/aiqiyi02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/aiqiyi/aiqiyi2020.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/aiqiyi/aiqiyi2020.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/lexin2020_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/lexin2020_01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/nowcode/lexin2020_02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/nowcode/lexin2020_02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/PascalTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/PascalTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/PascalTriangle2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/PascalTriangle2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/ReverseLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/ReverseLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/recursion/SwapNodeInPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort/mergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort/mergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/temp/Serializ.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp/Serializ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/temp/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/temp/VersionCompare$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp/VersionCompare$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/temp/VersionCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/temp/VersionCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testenum/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testenum/EnumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testenum/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testenum/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testenum/TestStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testenum/TestStatic.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,10 +198,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/temp/ConcurrentCompute.java">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            <state relative-caret-position="154">
+              <caret line="1014" column="23" selection-start-line="1014" selection-start-column="22" selection-end-line="1014" selection-end-column="23" />
+              <folding>
+                <element signature="e#44314#44315#0" expanded="true" />
+                <element signature="e#44362#44363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5356.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,33 +223,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/temp/Tem.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5357.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1846#1847#0" expanded="true" />
-                <element signature="e#1888#1889#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mt2020spring/L1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5179.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="75">
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5359.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/like100/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="374" column="17" selection-start-line="374" selection-start-column="17" selection-end-line="374" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L51.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+            <state relative-caret-position="140">
+              <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,63 +283,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mt2020spring/L2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="87">
+              <caret line="641" column="40" selection-start-line="641" selection-start-column="33" selection-end-line="641" selection-end-column="40" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#19103#19104#0" expanded="true" />
+                <element signature="e#19161#19162#0" expanded="true" />
+                <element signature="e#24331#24332#0" expanded="true" />
+                <element signature="e#24396#24397#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mt2020spring/L3.java">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25650">
-              <caret line="1427" selection-start-line="1427" selection-end-line="1427" />
+            <state relative-caret-position="150">
+              <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
               <folding>
-                <element signature="e#55302#55303#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/ArraysUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="76" column="5" selection-start-line="43" selection-end-line="76" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#24220#24221#0" expanded="true" />
+                <element signature="e#24285#24286#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +332,7 @@
       <find>newCache</find>
       <find>ScheduledExecutorService</find>
       <find>task</find>
+      <find>resize</find>
     </findStrings>
     <replaceStrings>
       <replace>double</replace>
@@ -161,10 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/contest/contest100/L899.java" />
-        <option value="$PROJECT_DIR$/src/main/java/temp/Father.java" />
-        <option value="$PROJECT_DIR$/src/main/java/temp/Son.java" />
-        <option value="$PROJECT_DIR$/src/main/java/nowcode/BasketAndBall.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L4.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L5.java" />
@@ -212,6 +391,10 @@
         <option value="$PROJECT_DIR$/src/main/java/mt2020spring/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/mt2020spring/L1.java" />
         <option value="$PROJECT_DIR$/src/main/java/interview100/L51.java" />
+        <option value="$PROJECT_DIR$/src/main/java/contest/contest180/L5356.java" />
+        <option value="$PROJECT_DIR$/src/main/java/contest/contest180/L5357.java" />
+        <option value="$PROJECT_DIR$/src/main/java/contest/contest180/L5179.java" />
+        <option value="$PROJECT_DIR$/src/main/java/contest/contest180/L5359.java" />
       </list>
     </option>
   </component>
@@ -232,6 +415,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,7 +447,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="interview100" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="contest" type="462c0819:PsiDirectoryNode" />
+              <item name="contest180" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -277,7 +470,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -295,10 +487,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.09582543" />
     <property name="project.structure.side.proportion" value="0.20574713" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -317,33 +510,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.L51.tets">
-    <configuration name="L1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mt2020spring.L1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mt2020spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mt2020spring.L2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mt2020spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.L5359.test">
     <configuration name="L3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mt2020spring.L3" />
       <module name="leetcode" />
@@ -357,15 +524,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="temp.Tem" />
+    <configuration name="L5357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contest.contest180.L5357" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="temp.*" />
+          <option name="PATTERN" value="contest.contest180.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L5179.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contest.contest180.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contest.contest180" />
+      <option name="MAIN_CLASS_NAME" value="contest.contest180.L5179" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -386,13 +569,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L5359.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contest.contest180.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="contest.contest180" />
+      <option name="MAIN_CLASS_NAME" value="contest.contest180.L5359" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L5359.test" />
+        <item itemvalue="JUnit.L5179.test" />
+        <item itemvalue="Application.L5357" />
         <item itemvalue="JUnit.L51.tets" />
         <item itemvalue="Application.L3" />
-        <item itemvalue="Application.L2" />
-        <item itemvalue="Application.L1" />
-        <item itemvalue="Application.Tem" />
       </list>
     </recent_temporary>
   </component>
@@ -493,14 +692,8 @@
       <workItem from="1583851165297" duration="3282000" />
       <workItem from="1583922458590" duration="1064000" />
       <workItem from="1583982673450" duration="12545000" />
-      <workItem from="1584112208560" duration="1476000" />
-    </task>
-    <task id="LOCAL-00098" summary="数组中重复的数字">
-      <created>1580888221617</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1580888221618</updated>
+      <workItem from="1584112208560" duration="1717000" />
+      <workItem from="1584189506255" duration="10214000" />
     </task>
     <task id="LOCAL-00099" summary="regular expression matching">
       <created>1580983746586</created>
@@ -838,43 +1031,50 @@
       <option name="project" value="LOCAL" />
       <updated>1584018444541</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="暴力解n皇后">
+      <created>1584113943463</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1584113943465</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="L51_tets - 2020.03.13 at 23h 20m 31s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5179_test - 2020.03.15 at 11h 17m 23s.xml">
+      <configuration name="L5179.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 20m 38s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5179_test - 2020.03.15 at 11h 20m 11s.xml">
+      <configuration name="L5179.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 20m 47s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5179_test - 2020.03.15 at 11h 21m 05s.xml">
+      <configuration name="L5179.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 21m 19s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 34m 23s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 22m 40s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 34m 41s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 23m 04s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 36m 23s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 24m 37s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 36m 30s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 25m 54s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 37m 45s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 26m 09s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 38m 42s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="L51_tets - 2020.03.13 at 23h 26m 34s.xml">
-      <configuration name="L51.tets" configurationId="JUnit" />
+    <history-entry file="L5359_test - 2020.03.15 at 11h 38m 51s.xml">
+      <configuration name="L5359.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="583535000" />
+    <option name="totallyTimeSpent" value="593990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -889,8 +1089,8 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70927316" visible="true" weight="0.2664648" />
-      <window_info id="Structure" order="1" sideWeight="0.2907268" side_tool="true" visible="true" weight="0.2664648" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.27100682" />
+      <window_info id="Structure" order="1" sideWeight="0.42615384" side_tool="true" weight="0.27100682" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -900,7 +1100,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38615385" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39076924" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
@@ -965,7 +1165,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="contest 176" />
     <MESSAGE value="自上而下篮子" />
     <MESSAGE value="剑指" />
     <MESSAGE value="二维排序数组找确定值" />
@@ -990,7 +1189,8 @@
     <MESSAGE value="迭代器无敌好吧" />
     <MESSAGE value="并发计算" />
     <MESSAGE value="美团" />
-    <option name="LAST_COMMIT_MESSAGE" value="美团" />
+    <MESSAGE value="暴力解n皇后" />
+    <option name="LAST_COMMIT_MESSAGE" value="暴力解n皇后" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1088,10 +1288,28 @@
           <option name="timeStamp" value="252" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/interview100/L51.java</url>
-          <line>63</line>
+          <url>jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java</url>
+          <line>263</line>
           <properties />
-          <option name="timeStamp" value="253" />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/contest/contest180/L5357.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/contest/contest180/L5179.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/contest/contest180/L5359.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="260" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1129,84 +1347,15 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>speed[j]+dp[i][0]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21242">
-          <caret line="1179" column="32" selection-start-line="1179" selection-start-column="32" selection-end-line="1179" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1558">
-          <caret line="108" column="31" selection-start-line="108" selection-start-column="31" selection-end-line="108" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/csnote/greedy/L455.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/like100/L42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhiOffer/L10_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-444">
@@ -1464,16 +1613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/temp/ConcurrentCompute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/temp/Tem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
@@ -1483,6 +1622,20 @@
             <element signature="e#1846#1847#0" expanded="true" />
             <element signature="e#1888#1889#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mt2020spring/L1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -1530,27 +1683,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mt2020spring/L1.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="137" column="13" selection-start-line="137" selection-start-column="13" selection-end-line="137" selection-end-column="13" />
+          <folding>
+            <element signature="e#24220#24221#0" expanded="true" />
+            <element signature="e#24285#24286#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/temp/ConcurrentCompute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="94">
+          <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1258" column="24" lean-forward="true" selection-start-line="1258" selection-start-column="24" selection-end-line="1258" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="374" column="17" selection-start-line="374" selection-start-column="17" selection-end-line="374" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/interview100/L51.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="61" column="23" lean-forward="true" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="140">
+          <caret line="72" column="46" lean-forward="true" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="641" column="40" selection-start-line="641" selection-start-column="33" selection-end-line="641" selection-end-column="40" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#24331#24332#0" expanded="true" />
+            <element signature="e#24396#24397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="1014" column="23" selection-start-line="1014" selection-start-column="22" selection-end-line="1014" selection-end-column="23" />
+          <folding>
+            <element signature="e#44314#44315#0" expanded="true" />
+            <element signature="e#44362#44363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5356.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5357.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/like100/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5179.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/contest/contest180/L5359.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
         </state>
       </provider>
     </entry>
