@@ -1,4 +1,4 @@
-package mt2020spring;
+package gongsi.mt2020spring;
 
 import java.util.Scanner;
 

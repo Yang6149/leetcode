@@ -1,4 +1,4 @@
-package bishi.L360;
+package gongsi.L360;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

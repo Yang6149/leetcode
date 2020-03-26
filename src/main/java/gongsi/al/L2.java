@@ -1,4 +1,4 @@
-package al;
+package gongsi.al;
 
 import java.util.Arrays;
 import java.util.Scanner;
