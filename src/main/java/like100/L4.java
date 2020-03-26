@@ -40,7 +40,5 @@ public class L4 {
         int [] num1={1,2};
         int [] num2={3,4};
         System.out.println(findMedianSortedArrays(num1,num2));
-        System.out.println(new L3().dadada);
-        System.out.println(new L3().dididi);
     }
 }
