@@ -6,21 +6,27 @@ import java.util.Arrays;
 
 public class L3 {
     public int lengthOfLongestSubstring(String s) {
+        Arrays.sort();
         char [] chars=s.toCharArray();
         int maxNum=0;
         int [] little = new int[256];
-        Arrays.fill(little,-1);
-        for (int i = 0,j=0; i < chars.length; i++) {
-            if (little[chars[i]]!=-1){
-                j=Math.max(j,little[chars[i]]+1);
+        int right = 0;
+        int left = 0;
+        while(right<s.length()){
+            char c = chars[right];
+            little[c]++;
+            right++;
+            while(little[c]>1){
+                char c2 = chars[left];
+                little[c2]--;
+                left++;
             }
-            little[chars[i]]=i;
-            maxNum = Math.max(maxNum,i-j+1);
+            maxNum=Math.max(maxNum,right-left);
         }
         return maxNum;
     }
     @Test
     public void test(){
-        System.out.println(lengthOfLongestSubstring("pwwkew"));
+        System.out.println(lengthOfLongestSubstring(" "));
     }
 }
