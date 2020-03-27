@@ -11,16 +11,12 @@ public class QuickSort {
         while(i<=j){
             while(nums[i]<pivot)i++;
             while(nums[j]>pivot)j--;
-            swap(nums,i++,j--);
+            SortUtil.swap(nums,i++,j--);
         }
         if(a<j)s(nums,a,j);
         if(i<b)s(nums,i,b);
     }
-    public void swap(int [] nums,int a,int b){
-        int temp = nums[a];
-        nums[a]=nums[b];
-        nums[b]=temp;
-    }
+
 
     public void print(int [] nums){
         for (int num : nums) {
