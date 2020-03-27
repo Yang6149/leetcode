@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/HeadSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort/HeadSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sort/CountingSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1925">
-              <caret line="198" column="34" selection-start-line="198" selection-start-column="33" selection-end-line="198" selection-end-column="34" />
+            <state relative-caret-position="177">
+              <caret line="106" selection-start-line="106" selection-end-line="198" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -77,11 +76,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sort/HeadSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="798">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sort/CountingSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -121,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/iaa/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/iaa/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/yuanjing/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/tencent2020q/L1.java" />
@@ -172,6 +176,7 @@
         <option value="$PROJECT_DIR$/src/main/java/sort/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/HsellSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/sort/HeadSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/CountingSort.java" />
       </list>
     </option>
   </component>
@@ -286,8 +291,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HeadSort.test">
-    <configuration name="BubbleSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CountingSort.test">
+    <configuration name="CountingSort.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -296,7 +301,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="sort" />
-      <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="sort.CountingSort" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -369,11 +374,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CountingSort.test" />
         <item itemvalue="JUnit.HeadSort.test" />
         <item itemvalue="JUnit.HsellSort.test" />
         <item itemvalue="JUnit.InsertSort.test" />
         <item itemvalue="JUnit.SelectSort.test" />
-        <item itemvalue="JUnit.BubbleSort.test" />
       </list>
     </recent_temporary>
   </component>
@@ -487,14 +492,7 @@
       <workItem from="1585194915261" duration="1076000" />
       <workItem from="1585202535336" duration="5577000" />
       <workItem from="1585241985300" duration="815000" />
-      <workItem from="1585280828224" duration="10184000" />
-    </task>
-    <task id="LOCAL-00110" summary="连续股票">
-      <created>1581694913801</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1581694913802</updated>
+      <workItem from="1585280828224" duration="11110000" />
     </task>
     <task id="LOCAL-00111" summary="分段反转链表，有思路了再写">
       <created>1581748797626</created>
@@ -832,7 +830,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585296892115</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Sort">
+      <created>1585299908871</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1585299908871</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -868,7 +873,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="647610000" />
+    <option name="totallyTimeSpent" value="648536000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -883,7 +888,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.32853898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.32853898" />
       <window_info id="Structure" order="1" sideWeight="0.42615384" side_tool="true" weight="0.27100682" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -893,7 +898,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10461538" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10461538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.48307693" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1230,13 +1235,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/mt2020spring/L2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1640,16 +1638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/HeadSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -1663,8 +1651,22 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/DualPivotQuicksort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1925">
-          <caret line="198" column="34" selection-start-line="198" selection-start-column="33" selection-end-line="198" selection-end-column="34" />
+        <state relative-caret-position="177">
+          <caret line="106" selection-start-line="106" selection-end-line="198" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/HeadSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
         </state>
       </provider>
     </entry>
