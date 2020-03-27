@@ -6,7 +6,6 @@ import java.util.Arrays;
 
 public class L3 {
     public int lengthOfLongestSubstring(String s) {
-        Arrays.sort();
         char [] chars=s.toCharArray();
         int maxNum=0;
         int [] little = new int[256];
