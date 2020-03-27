@@ -17,6 +17,7 @@ public class CountingSort {
     }
     @Test
     public void test(){
+        //默认随机值在 0-99 之间
         int [] nums = SortUtil.getRandom();
         countingSort(nums,100);
         System.out.println(SortUtil.judge(nums));
