@@ -6,9 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/baidu/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/baidu/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/baidu/L3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -452,14 +449,7 @@
       <workItem from="1585241985300" duration="815000" />
       <workItem from="1585280828224" duration="11571000" />
       <workItem from="1585380409366" duration="3814000" />
-      <workItem from="1585449181518" duration="16091000" />
-    </task>
-    <task id="LOCAL-00115" summary="自上而下篮子">
-      <created>1582200783239</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1582200783241</updated>
+      <workItem from="1585449181518" duration="16697000" />
     </task>
     <task id="LOCAL-00116" summary="剑指">
       <created>1582213950427</created>
@@ -797,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585478871533</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="baidu">
+      <created>1585490525238</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1585490525238</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -833,7 +830,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="668902000" />
+    <option name="totallyTimeSpent" value="669508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -845,7 +842,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.33913702" />
@@ -858,8 +855,8 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32923076" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5784615" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32923076" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.5784615" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32923076" />
@@ -888,7 +885,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="机器人" />
     <MESSAGE value="减绳子" />
     <MESSAGE value="O" />
     <MESSAGE value="腾讯3道" />
@@ -913,7 +909,8 @@
     <MESSAGE value="Sort" />
     <MESSAGE value="计数排序" />
     <MESSAGE value="contest" />
-    <option name="LAST_COMMIT_MESSAGE" value="contest" />
+    <MESSAGE value="baidu" />
+    <option name="LAST_COMMIT_MESSAGE" value="baidu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
