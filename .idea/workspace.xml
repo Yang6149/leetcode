@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25008d7a-69ff-4a6a-bc07-f7195e1d801e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/everydayLeet/L121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/everydayLeet/L121.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="437">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
+            <state relative-caret-position="563">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -49,9 +47,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/everydayLeet/L151.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/everydayLeet/L121.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="152">
               <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -65,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/math/BigInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="43453">
               <caret line="2342" column="16" selection-start-line="2342" selection-start-column="16" selection-end-line="2342" selection-end-column="16" />
             </state>
           </provider>
@@ -106,8 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L16.java" />
-        <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L19.java" />
         <option value="$PROJECT_DIR$/src/main/java/jianzhiOffer/L17.java" />
         <option value="$PROJECT_DIR$/src/main/java/temp/IteraLinked.java" />
         <option value="$PROJECT_DIR$/src/main/java/temp/ConcurrentCompute.java" />
@@ -157,6 +171,8 @@
         <option value="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L2.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L3.java" />
         <option value="$PROJECT_DIR$/src/main/java/gongsi/wangyi/L1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/everydayLeet/L151.java" />
+        <option value="$PROJECT_DIR$/src/main/java/everydayLeet/L121.java" />
       </list>
     </option>
   </component>
@@ -177,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,23 +225,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gongsi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gongsi" type="462c0819:PsiDirectoryNode" />
-              <item name="wangyi" type="462c0819:PsiDirectoryNode" />
+              <item name="everydayLeet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.L1">
+  <component name="RunManager" selected="JUnit.L151.test">
     <configuration name="L1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gongsi.wangyi.L1" />
       <module name="leetcode" />
@@ -284,19 +291,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gongsi.wangyi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="L2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gongsi.baidu.L2" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gongsi.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,13 +324,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="L151.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="everydayLeet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="everydayLeet" />
+      <option name="MAIN_CLASS_NAME" value="everydayLeet.L151" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L151.test" />
         <item itemvalue="Application.L1" />
         <item itemvalue="Application.L3 (1)" />
         <item itemvalue="Application.L2 (1)" />
         <item itemvalue="Application.L3" />
-        <item itemvalue="Application.L2" />
       </list>
     </recent_temporary>
   </component>
@@ -455,20 +465,7 @@
       <workItem from="1585449181518" duration="16697000" />
       <workItem from="1585764799097" duration="213000" />
       <workItem from="1586258248759" duration="6016000" />
-    </task>
-    <task id="LOCAL-00117" summary="二维排序数组找确定值">
-      <created>1582215149604</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1582215149604</updated>
-    </task>
-    <task id="LOCAL-00118" summary="commit">
-      <created>1582302626306</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1582302626307</updated>
+      <workItem from="1586514065827" duration="2259000" />
     </task>
     <task id="LOCAL-00119" summary="优化 trapping rainWater">
       <created>1582367848738</created>
@@ -799,25 +796,24 @@
       <option name="project" value="LOCAL" />
       <updated>1585765004564</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="网易凉凉">
+      <created>1586514109776</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1586514109780</updated>
+    </task>
+    <task id="LOCAL-00167" summary="每日">
+      <created>1586538004261</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1586538004261</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Sync_test - 2020.03.29 at 14h 41m 42s.xml">
-      <configuration name="Sync.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sync_test - 2020.03.29 at 14h 42m 12s.xml">
-      <configuration name="Sync.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sync_test - 2020.03.29 at 14h 43m 34s.xml">
-      <configuration name="Sync.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sync_test - 2020.03.29 at 14h 45m 57s.xml">
-      <configuration name="Sync.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Sync_test - 2020.03.29 at 14h 46m 38s.xml">
-      <configuration name="Sync.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Sync_test - 2020.03.29 at 14h 46m 59s.xml">
       <configuration name="Sync.test" configurationId="JUnit" />
     </history-entry>
@@ -833,9 +829,24 @@
     <history-entry file="L1_test - 2020.03.29 at 19h 34m 26s.xml">
       <configuration name="L1.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="L151_test - 2020.04.10 at 18h 25m 50s.xml">
+      <configuration name="L151.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L151_test - 2020.04.10 at 18h 26m 43s.xml">
+      <configuration name="L151.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L151_test - 2020.04.10 at 18h 26m 58s.xml">
+      <configuration name="L151.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L151_test - 2020.04.10 at 18h 27m 59s.xml">
+      <configuration name="L151.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="L151_test - 2020.04.10 at 18h 28m 17s.xml">
+      <configuration name="L151.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="675737000" />
+    <option name="totallyTimeSpent" value="677996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -847,10 +858,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.34973505" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57384616" visible="true" weight="0.19227858" />
       <window_info id="Structure" order="1" sideWeight="0.42615384" side_tool="true" weight="0.27100682" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -860,7 +870,7 @@
       <window_info id="Alibaba Cloud Explorer" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30153847" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52153844" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42923078" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -890,8 +900,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="O" />
-    <MESSAGE value="腾讯3道" />
     <MESSAGE value="最优解 有序栈" />
     <MESSAGE value="动态规划" />
     <MESSAGE value="greedy" />
@@ -915,7 +923,9 @@
     <MESSAGE value="contest" />
     <MESSAGE value="baidu" />
     <MESSAGE value="289" />
-    <option name="LAST_COMMIT_MESSAGE" value="289" />
+    <MESSAGE value="网易凉凉" />
+    <MESSAGE value="每日" />
+    <option name="LAST_COMMIT_MESSAGE" value="每日" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1191,20 +1201,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ten/L2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8037">
-          <caret line="473" column="21" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4731">
@@ -1584,13 +1580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/everydayLeet/L289.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -1598,16 +1588,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/math/BigInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="2342" column="16" selection-start-line="2342" selection-start-column="16" selection-end-line="2342" selection-end-column="16" />
+        <state relative-caret-position="437">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="152">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1617,23 +1610,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L1.java">
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="43453">
+          <caret line="2342" column="16" selection-start-line="2342" selection-start-column="16" selection-end-line="2342" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/gongsi/wangyi/L2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/everydayLeet/L151.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/everydayLeet/L121.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
