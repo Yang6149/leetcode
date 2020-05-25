@@ -24,4 +24,15 @@ public class L1248 {
     public  void test(){
         System.out.println(numberOfSubarrays(new int[]{2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2,1,2,2,2}, 2));
     }
+    @Test
+    public void testa(){
+        final double p = 0.993;
+        double res = 1;
+        int dianshu = 0;
+        while(dianshu*150<17500){
+            dianshu++;
+            res*=p;
+        }
+        System.out.println(1-res);
+    }
 }
